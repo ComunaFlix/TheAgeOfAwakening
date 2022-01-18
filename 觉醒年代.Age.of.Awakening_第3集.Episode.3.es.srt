@@ -58,7 +58,7 @@ Es difícil encontrar un buen escritor.
 00:02:18,420 --> 00:02:20,780
 Mientras el caballero esté dispuesto a escribir por nosotros,
 
-dieciséis
+16
 00:02:20,980 --> 00:02:22,900
 no es un problema.
 
@@ -254,7 +254,7 @@ Ven y come sandía. Comer sandía.
 00:03:52,500 --> 00:03:54,380
 Vamos, es dulce. Vamos vamos.
 
-sesenta y cinco
+65
 00:03:54,540 --> 00:03:55,220
 Gracias.
 
@@ -3953,7 +3953,7 @@ Venir.
 Este es un material de Francia que especialmente
 
 987
-00 :41:25,420 --> 00:41:27,420
+00:41:25,420 --> 00:41:27,420
 traído de vuelta para ustedes.
 
 988

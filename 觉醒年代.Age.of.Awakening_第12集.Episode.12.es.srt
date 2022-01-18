@@ -58,7 +58,7 @@ podría convertirse en un debate!
 00:00:25,680 --> 00:00:26,720
 ¿Qué quieres decir?
 
-dieciséis
+16
 00:00:26,960 --> 00:00:27,920
 Has conocido a tu pareja.
 
@@ -254,7 +254,7 @@ Maestro Cai, con este nuevo edificio
 00:02:16,560 --> 00:02:18,720
 ¡Las condiciones en la Universidad de Pekín mejorarán enormemente!
 
-sesenta y cinco
+65
 00:02:19,280 --> 00:02:20,400
 Hay algunas salas de lectura.
 

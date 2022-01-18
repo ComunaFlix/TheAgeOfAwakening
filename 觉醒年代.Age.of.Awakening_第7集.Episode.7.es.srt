@@ -58,7 +58,7 @@ es constituir un patronato.
 00:00:43,760 --> 00:00:44,800
 Este consejo de administración
 
-dieciséis
+16
 00:00:45,120 --> 00:00:47,600
 está integrado por el presidente y los decanos de diversas disciplinas
 
@@ -254,7 +254,7 @@ Todos buscaban una salida.
 00:03:26,000 --> 00:03:27,200
 Pero el punto clave
 
-sesenta y cinco
+65
 00:03:28,160 --> 00:03:29,280
 es que en ese periodo,
 

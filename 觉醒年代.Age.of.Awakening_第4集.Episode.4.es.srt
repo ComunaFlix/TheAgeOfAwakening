@@ -58,7 +58,7 @@ nunca hemos pasado por días tan tristes.
 00:02:17,460 --> 00:02:20,260
 ¿No dijiste que desde que este presidente Lai asumió el cargo,
 
-dieciséis
+16
 00:02:20,340 --> 00:02:21,460
 ha hecho muchas promesas?
 
@@ -254,7 +254,7 @@ Préstame algo de dinero, ¿quieres?
 00:04:00,180 --> 00:04:01,067
 ¡Hermano, salva al niño!
 
-sesenta y cinco
+65
 00:04:01,227 --> 00:04:01,940
 ¡Hermano, salva al niño!
 

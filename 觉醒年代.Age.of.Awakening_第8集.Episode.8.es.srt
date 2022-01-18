@@ -58,7 +58,7 @@ Los que son confucianos académicos,
 00:00:27,680 --> 00:00:29,120
 y los que son confucianos políticos.
 
-dieciséis
+16
 00:00:30,000 --> 00:00:31,520
 La disciplina del confucianismo
 
@@ -256,7 +256,7 @@ Ha ahogado la vitalidad del país.
 00:02:47,760 --> 00:02:49,760
 Ha dañado la vida de las personas.
 
-sesenta y cinco
+65
 00:02:50,160 --> 00:02:51,600
 Ha obstaculizado el progreso de la civilización.
 

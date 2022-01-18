@@ -58,7 +58,7 @@ Si quieres este trabajo, tienes que hacerlo bien.
 00:00:44,400 --> 00:00:46,240
 Sin agua, es difícil construir un canal.
 
-dieciséis
+16
 00:00:46,560 --> 00:00:48,240
 Si quieres estar en este nido de avispas de la Universidad de Pekín,
 
@@ -255,7 +255,7 @@ Sí, el Movimiento de la Nueva Cultura
 00:02:29,360 --> 00:02:30,080
 portador de la bandera
 
-sesenta y cinco
+65
 00:02:30,320 --> 00:02:32,480
 debería ser una persona famosa como tú, Chen Zhongfu.
 

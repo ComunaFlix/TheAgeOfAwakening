@@ -3,7 +3,7 @@
 [La Era del Despertar]
 
 2
-00:01:39,130 ​​--> 00:01:41,996
+00:01:39,130 --> 00:01:41,996
 [Episodio dos]
 
 3
@@ -58,7 +58,7 @@ Gracias tía.
 00:02:21,972 --> 00:02:23,896
 [Songshan Road, concesión francesa, Shanghái]
 
-dieciséis
+16
 00:02:23,896 --> 00:02:25,807
 [Songshan Road, concesión francesa, Shanghái]
 Pasteles de pasta de pera... dulces y salados,
@@ -256,7 +256,7 @@ Salí,
 00:05:26,840 --> 00:05:28,200
 Yi Baisha me miró y dijo:
 
-sesenta y cinco
+65
 00:05:29,120 --> 00:05:31,120
 ¿Qué son esas manchas en tu cuerpo?
 

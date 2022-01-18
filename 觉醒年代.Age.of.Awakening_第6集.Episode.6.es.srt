@@ -58,7 +58,7 @@ Hermano Mengzou, ¿ves?
 00:00:35,200 --> 00:00:36,640
 Así es como se ve un consejo editorial.
 
-dieciséis
+16
 00:00:37,040 --> 00:00:37,760
 Nuestra
 
@@ -254,7 +254,7 @@ El hermano Zhongfu mencionó esta "Nueva Juventud".
 00:02:12,560 --> 00:02:14,640
 Realmente quiero tener una buena discusión contigo.
 
-sesenta y cinco
+65
 00:02:14,880 --> 00:02:15,440
 ¡Estupendo!
 
