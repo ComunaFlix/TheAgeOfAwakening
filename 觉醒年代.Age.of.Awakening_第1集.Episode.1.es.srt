@@ -3,75 +3,75 @@
 [La Era del Despertar]
 
 2
-00:01:39,040 --> 00:01:42,120
+00:01:39,040 --> 00:01:43,120
 [Episodio uno]
 
 3
-00:01:52,360 --> 00:01:53,880
+00:01:52,360 --> 00:01:54,880
 1915
 
 4
-00:01:55,000 --> 00:01:56,360
+00:01:55,000 --> 00:01:56,416
 Primera Guerra Mundial
 
 5
-00:01:56,440 --> 00:01:58,600
+00:01:56,440 --> 00:01:59,600
 entró en su segundo año de tragedia sin precedentes.
 
 6
-00:02:00,120 --> 00:02:02,920
+00:02:00,120 --> 00:02:03,216
 Mientras Alemania se distraía en el teatro europeo,
 
 7
-00:02:03,240 --> 00:02:05,960
+00:02:03,240 --> 00:02:06,960
 Japón aceleró su expansión en China.
 
 8
-00:02:07,240 --> 00:02:08,280
+00:02:07,240 --> 00:02:08,816
 Durante el periodo
 
 9
-00:02:08,840 --> 00:02:10,440
+00:02:08,840 --> 00:02:10,576
 del fracaso de la Segunda Revolución,
 
 10
-00:02:10,600 --> 00:02:13,240
+00:02:10,600 --> 00:02:14,240
 Sun Yat-sen y otros se vieron obligados a exiliarse en el extranjero.
 
 11
-00:02:14,760 --> 00:02:16,280
+00:02:14,760 --> 00:02:16,336
 Revolucionarios burgueses
 
 12
-00:02:16,360 --> 00:02:19,880
+00:02:16,360 --> 00:02:20,816
 no pudieron llevar hasta el final la lucha antiimperialista y antifeudal.
 
 13
-00:02:20,840 --> 00:02:22,280
+00:02:20,840 --> 00:02:22,416
 Caos político interno,
 
 14
-00:02:22,440 --> 00:02:24,920
+00:02:22,440 --> 00:02:25,216
 el sufrimiento del pueblo,
 
 15
-00:02:25,240 --> 00:02:26,920
+00:02:25,240 --> 00:02:26,976
 Problemas internos y agresión exterior.
 
 16
-00:02:27,000 --> 00:02:31,640
+00:02:27,000 --> 00:02:32,640
 China se vio nuevamente envuelta en una situación tumultuosa.
 
 17
-00:03:31,640 --> 00:03:32,280
+00:03:31,640 --> 00:03:33,280
 Señor presidente,
 
 18
-00:03:33,400 --> 00:03:35,800
+00:03:33,400 --> 00:03:36,416
 El diplomático japonés Hioki Eki ha enviado un ultimátum
 
 19
-00:03:36,440 --> 00:03:37,960
+00:03:36,440 --> 00:03:38,496
 para ser respondida dentro de las cuarenta y ocho horas.
 
 20
@@ -79,8 +79,8 @@ para ser respondida dentro de las cuarenta y ocho horas.
 ¿Qué dice el ultimátum?
 
 21
-00:03:38,520 --> 00:03:40,920
-[Yuan Shikai, presidente de la República de China]
+00:03:38,520 --> 00:03:41,296
+{\an8}[Yuan Shikai, presidente de la República de China]
 
 22
 00:03:41,320 --> 00:03:42,520
@@ -88,10 +88,10 @@ Si el Veintiuno Exige
 
 23
 00:03:41,320 --> 00:03:43,480
-[Liang Shiyi, llamado Yifu, Secretario General de la Oficina Presidencial de la República de China]
+{\an8}[Liang Shiyi, llamado Yifu, Secretario General de la Oficina Presidencial de la República de China]
 
 24
-00:03:42,600 --> 00:03:43,480
+00:03:42,600 --> 00:03:44,176
 no son aceptados dentro del plazo,
 
 25
@@ -99,347 +99,347 @@ no son aceptados dentro del plazo,
 entonces Japón tomará las medidas necesarias.
 
 26
-00:03:44,200 --> 00:03:47,560
-[Cao Rulin, llamado Runtian, Viceministro de Relaciones Exteriores de la República de China]
+00:03:44,200 --> 00:03:48,560
+{\an8}[Cao Rulin, llamado Runtian, Viceministro de Relaciones Exteriores de la República de China]
 
 27
-00:03:48,600 --> 00:03:49,560
+00:03:48,600 --> 00:03:49,936
 ¿Qué es lo que quiere?
 
 28
-00:03:49,960 --> 00:03:50,680
+00:03:49,960 --> 00:03:50,976
 hioki eki dijo
 
 29
-00:03:51,000 --> 00:03:53,480
+00:03:51,000 --> 00:03:54,480
 Japón se hará cargo de Shandong en el noreste.
 
 30
-00:03:58,600 --> 00:04:03,640
+00:03:58,600 --> 00:04:04,096
 Japoneses... Todavía nos quieren muertos.
 
 31
-00:04:04,120 --> 00:04:05,800
+00:04:04,120 --> 00:04:06,336
 Esta tarde, el Ministerio de Guerra informó
 
 32
-00:04:06,360 --> 00:04:07,800
+00:04:06,360 --> 00:04:08,096
 que las formaciones navales japonesas
 
 33
-00:04:08,120 --> 00:04:10,520
+00:04:08,120 --> 00:04:10,976
 se dirigen a nuestra costa sureste.
 
 34
-00:04:11,000 --> 00:04:11,640
+00:04:11,000 --> 00:04:12,640
 ¿Qué?
 
 35
-00:04:13,160 --> 00:04:14,840
+00:04:13,160 --> 00:04:15,696
 ¿Todavía quiere una Guerra Jiawu (= Primera Guerra Sino-Japonesa)?
 
 36
-00:04:15,720 --> 00:04:16,840
+00:04:15,720 --> 00:04:17,296
 No cometer errores.
 
 37
-00:04:17,320 --> 00:04:18,760
+00:04:17,320 --> 00:04:19,536
 Soy Yuan Shikai,
 
 38
-00:04:19,560 --> 00:04:21,000
+00:04:19,560 --> 00:04:21,536
 no Li Hongzhang.
 
 39
-00:04:21,560 --> 00:04:22,920
+00:04:21,560 --> 00:04:23,376
 Durante mucho tiempo, ha habido discusiones en Japón
 
 40
-00:04:23,400 --> 00:04:24,280
+00:04:23,400 --> 00:04:24,576
 abogando por la intervención japonesa
 
 41
-00:04:24,600 --> 00:04:27,080
+00:04:24,600 --> 00:04:28,080
 en la cuenca del río Yangtze de nuestro país tan pronto como sea posible.
 
 42
-00:04:29,160 --> 00:04:31,960
+00:04:29,160 --> 00:04:32,896
 Estúpido, estúpido...
 
 43
-00:04:32,920 --> 00:04:34,120
+00:04:32,920 --> 00:04:34,256
 No le dijiste eso a Hioki Eki.
 
 44
-00:04:34,280 --> 00:04:37,240
+00:04:34,280 --> 00:04:37,616
 no es que yo, Yuan Shikai, no esté de acuerdo con las Veintiuna Demandas.
 
 45
-00:04:37,640 --> 00:04:39,480
+00:04:37,640 --> 00:04:39,856
 Es el pueblo el que se está rebelando tanto.
 
 46
-00:04:39,880 --> 00:04:42,680
+00:04:39,880 --> 00:04:43,056
 Fueron ellos quienes escondieron a Sun Yat-sen y Huang Xing en Japón.
 
 47
-00:04:43,080 --> 00:04:45,400
+00:04:43,080 --> 00:04:45,936
 ¿No dije que debemos respetar la opinión pública?
 
 48
-00:04:45,960 --> 00:04:47,240
+00:04:45,960 --> 00:04:47,856
 Señor presidente, nuestra apelación ha funcionado.
 
 49
-00:04:47,880 --> 00:04:49,720
+00:04:47,880 --> 00:04:49,776
 Los japoneses están de acuerdo en que los artículos de la Sección 5
 
 50
-00:04:49,800 --> 00:04:50,920
+00:04:49,800 --> 00:04:51,376
 puede discutirse más adelante.
 
 51
-00:04:51,400 --> 00:04:54,360
+00:04:51,400 --> 00:04:55,360
 Pero... el tratado debe ser firmado inmediatamente.
 
 52
-00:05:06,920 --> 00:05:09,880
+00:05:06,920 --> 00:05:10,576
 ¿Cómo responde su Ministerio de Relaciones Exteriores?
 
 53
-00:05:10,600 --> 00:05:13,880
+00:05:10,600 --> 00:05:14,176
 El Ministerio de Relaciones Exteriores obedece las órdenes del Presidente.
 
 54
-00:05:14,200 --> 00:05:15,080
+00:05:14,200 --> 00:05:16,016
 Que astuto.
 
 55
-00:05:16,040 --> 00:05:17,640
+00:05:16,040 --> 00:05:18,640
 A continuación, acepte los términos japoneses.
 
 56
-00:05:19,160 --> 00:05:23,640
+00:05:19,160 --> 00:05:24,096
 Ahora Sun Yat-sen, Huang Xing y los demás volverán a causar problemas.
 
 57
-00:05:24,120 --> 00:05:25,880
+00:05:24,120 --> 00:05:25,936
 Toda esta gente se ha ido al extranjero.
 
 58
-00:05:25,960 --> 00:05:27,000
+00:05:25,960 --> 00:05:28,000
 No será gran cosa.
 
 59
-00:05:28,099 --> 00:05:28,600
+00:05:28,099 --> 00:05:29,536
 Correcto.
 
 60
-00:05:29,560 --> 00:05:32,600
+00:05:29,560 --> 00:05:33,216
 Runtian, dile a los japoneses
 
 61
-00:05:33,240 --> 00:05:34,280
+00:05:33,240 --> 00:05:35,280
 se firmará el tratado,
 
 62
-00:05:35,320 --> 00:05:37,640
+00:05:35,320 --> 00:05:38,416
 pero no se aceptará la Sección 5 de las Demandas.
 
 63
-00:05:38,440 --> 00:05:39,800
+00:05:38,440 --> 00:05:40,576
 Esta es la conclusión.
 
 64
-00:05:40,600 --> 00:05:41,800
+00:05:40,600 --> 00:05:42,096
 le di cara,
 
 65
-00:05:42,120 --> 00:05:43,800
+00:05:42,120 --> 00:05:44,256
 él también debería darme un poco.
 
 66
-00:05:44,280 --> 00:05:45,400
+00:05:44,280 --> 00:05:46,176
 Entendido, señor presidente.
 
 67
-00:05:46,200 --> 00:05:48,200
+00:05:46,200 --> 00:05:48,976
 ¿Cuál es la fecha límite para los japoneses?
 
 68
-00:05:49,000 --> 00:05:49,320
+00:05:49,000 --> 00:05:50,016
 Nueve días.
 
 69
-00:05:50,040 --> 00:05:51,480
+00:05:50,040 --> 00:05:52,096
 Entonces espera hasta la noche del noveno día.
 
 70
-00:05:52,120 --> 00:05:53,240
+00:05:52,120 --> 00:05:54,240
 para informar a los japoneses.
 
 71
-00:05:54,280 --> 00:05:55,880
+00:05:54,280 --> 00:05:56,336
 ¡Extra! ¡Extra!
 
 72
-00:05:56,360 --> 00:05:58,120
+00:05:56,360 --> 00:05:58,416
 ¡El extra de hoy es muy extraño!
 
 73
-00:05:58,440 --> 00:06:00,120
+00:05:58,440 --> 00:06:00,496
 Presidente Yuan Shikai
 
 74
-00:06:00,520 --> 00:06:02,440
+00:06:00,520 --> 00:06:02,896
 ¡Está vendiendo el país!
 
 75
-00:06:02,920 --> 00:06:04,680
+00:06:02,920 --> 00:06:05,216
 ¡El derrochador, vende, vende, vende!
 
 76
-00:06:05,240 --> 00:06:07,160
+00:06:05,240 --> 00:06:07,616
 Su apoyo no tiene miedo de levantarse,
 
 77
-00:06:07,640 --> 00:06:09,480
+00:06:07,640 --> 00:06:09,696
 pero las masas comunes no están de acuerdo
 
 78
-00:06:09,720 --> 00:06:11,480
+00:06:09,720 --> 00:06:11,696
 estar enojado y no pelear!
 
 79
-00:06:11,720 --> 00:06:14,600
+00:06:11,720 --> 00:06:15,056
 ¡Mira a esta mujer! ¡Tan enfadada que pisa el extra!
 
 80
-00:06:15,080 --> 00:06:18,200
+00:06:15,080 --> 00:06:19,200
 ¡Mira a este hombre! ¡Tan enojado que se rompe la muleta!
 
 81
-00:06:21,480 --> 00:06:23,800
+00:06:21,480 --> 00:06:24,336
 9 de mayo de 1915
 
 82
-00:06:24,360 --> 00:06:25,640
+00:06:24,360 --> 00:06:25,696
 Por orden de Yuan Shikai,
 
 83
-00:06:25,720 --> 00:06:26,920
+00:06:25,720 --> 00:06:26,976
 se firma un acuerdo con Japón,
 
 84
-00:06:27,000 --> 00:06:29,400
+00:06:27,000 --> 00:06:29,696
 la humillación nacional de las Veintiuna Exigencias.
 
 85
-00:06:29,720 --> 00:06:30,760
+00:06:29,720 --> 00:06:30,896
 Según este tratado,
 
 86
-00:06:30,920 --> 00:06:32,840
+00:06:30,920 --> 00:06:32,896
 China reconoce la herencia de Japón de
 
 87
-00:06:32,920 --> 00:06:35,240
+00:06:32,920 --> 00:06:35,456
 todos los derechos e intereses alemanes en Shandong.
 
 88
-00:06:35,480 --> 00:06:38,120
+00:06:35,480 --> 00:06:38,176
 Japón en el sur de Manchuria y este de Mongolia en China
 
 89
-00:06:38,200 --> 00:06:39,560
+00:06:38,200 --> 00:06:40,256
 gozará de derechos especiales.
 
 90
-00:06:40,280 --> 00:06:41,400
+00:06:40,280 --> 00:06:41,456
 Japón entrará en China
 
 91
-00:06:41,480 --> 00:06:43,720
+00:06:41,480 --> 00:06:44,576
 diversos derechos de construcción de ferrocarriles, etc.
 
 92
-00:06:44,600 --> 00:06:46,360
+00:06:44,600 --> 00:06:46,496
 Los actos de traición del gobierno de Beiyang
 
 93
-00:06:46,520 --> 00:06:49,160
+00:06:46,520 --> 00:06:49,296
 fueron fuertemente rechazados por la nación.
 
 94
-00:06:49,320 --> 00:06:50,360
+00:06:49,320 --> 00:06:50,416
 Todas las principales ciudades de China,
 
 95
-00:06:50,440 --> 00:06:52,840
+00:06:50,440 --> 00:06:52,896
 como Pekín, Guangzhou, Wuhan,
 
 96
-00:06:52,920 --> 00:06:53,960
+00:06:52,920 --> 00:06:54,016
 Qingdao y otros lugares
 
 97
-00:06:54,040 --> 00:06:56,680
+00:06:54,040 --> 00:06:56,976
 todos celebraron grandes manifestaciones.
 
 98
-00:06:57,000 --> 00:06:59,080
+00:06:57,000 --> 00:06:59,216
 Los estibadores de Shanghái se declararon en huelga
 
 99
-00:06:59,240 --> 00:07:00,520
+00:06:59,240 --> 00:07:00,816
 anunciando un boicot a los productos japoneses.
 
 100
-00:07:00,840 --> 00:07:03,880
+00:07:00,840 --> 00:07:04,016
 Trabajadores en Hankow, Zhenjiang, Hanyang, Changsha,
 
 101
-00:07:04,040 --> 00:07:05,400
+00:07:04,040 --> 00:07:05,456
 Fuzhou y otros lugares
 
 102
-00:07:05,480 --> 00:07:07,800
+00:07:05,480 --> 00:07:08,176
 realizaron varias protestas una tras otra.
 
 103
-00:07:08,200 --> 00:07:10,120
+00:07:08,200 --> 00:07:10,416
 Negarse a reconocer las Veintiuna Demandas
 
 104
-00:07:10,440 --> 00:07:11,400
+00:07:10,440 --> 00:07:11,856
 y prometiendo vengar la humillación nacional
 
 105
-00:07:11,880 --> 00:07:14,280
+00:07:11,880 --> 00:07:14,336
 demostrar una fuerte postura antiimperialista
 
 106
-00:07:14,360 --> 00:07:16,440
+00:07:14,360 --> 00:07:16,736
 y una fuerte pasión patriótica.
 
 107
-00:07:16,760 --> 00:07:19,640
+00:07:16,760 --> 00:07:19,776
 Sun Yat-sen, Huang Xing y otros en el exilio en el extranjero
 
 108
-00:07:19,800 --> 00:07:22,920
+00:07:19,800 --> 00:07:23,016
 llamar a los revolucionarios a regresar a China para oponerse a Yuan.
 
 109
 00:07:23,040 --> 00:07:29,800
-[Universidad de Waseda, Japón]
+{\an8}[Universidad de Waseda, Japón]
 
 110
-00:07:28,280 --> 00:07:28,840
+00:07:28,280 --> 00:07:29,136
 ¡Ven y mira esto!
 
 111
-00:07:29,160 --> 00:07:29,800
+00:07:29,160 --> 00:07:30,800
 ¡Últimas noticias desde casa!
 
 112
@@ -447,11 +447,11 @@ llamar a los revolucionarios a regresar a China para oponerse a Yuan.
 ¡Desvergonzado! ¡Loco!
 
 113
-00:07:33,080 --> 00:07:35,480
-[Li Dazhao, llamado Shouchang, estudiante de la Universidad de Waseda]
+00:07:33,080 --> 00:07:36,176
+{\an8}[Li Dazhao, llamado Shouchang, estudiante de la Universidad de Waseda]
 
 114
-00:07:36,200 --> 00:07:37,080
+00:07:36,200 --> 00:07:37,616
 Hemos estado luchando durante tanto tiempo,
 
 115
@@ -459,447 +459,447 @@ Hemos estado luchando durante tanto tiempo,
 pero este es el resultado.
 
 116
-00:07:37,640 --> 00:07:38,760
-[Gao Yihan, estudiante de la Universidad de Waseda]
+00:07:37,640 --> 00:07:39,296
+{\an8}[Gao Yihan, estudiante de la Universidad de Waseda]
 
 117
-00:07:39,320 --> 00:07:41,160
+00:07:39,320 --> 00:07:42,160
 ¿Realmente no tenemos salida?
 
 118
-00:07:42,680 --> 00:07:43,640
+00:07:42,680 --> 00:07:43,936
 Este tipo de gran evento
 
 119
-00:07:43,960 --> 00:07:45,320
+00:07:43,960 --> 00:07:45,616
 no es algo que tú y yo podamos controlar.
 
 120
-00:07:45,640 --> 00:07:47,240
+00:07:45,640 --> 00:07:47,536
 Tomemos las cosas con calma, comamos primero.
 
 121
-00:07:47,560 --> 00:07:49,000
+00:07:47,560 --> 00:07:49,296
 Cuando el país está en problemas, no hay tiempo para comer.
 
 122
-00:07:49,320 --> 00:07:50,520
+00:07:49,320 --> 00:07:50,736
 Dices que prometes luchar por el país,
 
 123
-00:07:50,760 --> 00:07:52,680
+00:07:50,760 --> 00:07:53,056
 ¿Cómo... cómo puedes seguir comiendo?
 
 124
-00:07:53,080 --> 00:07:53,960
+00:07:53,080 --> 00:07:54,960
 ¡No puedo estar sin comer!
 
 125
-00:08:02,520 --> 00:08:04,760
+00:08:02,520 --> 00:08:05,760
 ¡Estudiantes! paisanos!
 
 126
-00:08:05,960 --> 00:08:08,520
+00:08:05,960 --> 00:08:08,976
 El cielo mata, las nubes de guerra vuelan.
 
 127
-00:08:09,000 --> 00:08:11,480
+00:08:09,000 --> 00:08:11,856
 El pueblo Wa aprovecha su oportunidad y fuerza nuestro Xiayu (= territorio chino).
 
 128
-00:08:11,880 --> 00:08:14,120
+00:08:11,880 --> 00:08:14,496
 Estudiantes en Japón, detenidos en una tierra exótica.
 
 129
-00:08:14,520 --> 00:08:18,280
+00:08:14,520 --> 00:08:18,816
 ¡Mirando hacia atrás a Shenzhou, mirando hacia el cielo triste y enfurecido!
 
 130
-00:08:18,840 --> 00:08:21,800
+00:08:18,840 --> 00:08:22,256
 Ahora que nuestro país ha caído y nuestra gente ha muerto,
 
 131
-00:08:22,280 --> 00:08:25,000
+00:08:22,280 --> 00:08:25,376
 ya no hay miedo de hablar.
 
 132
-00:08:25,400 --> 00:08:28,360
+00:08:25,400 --> 00:08:29,216
 Debemos tener la determinación de seguir adelante.
 
 133
-00:08:29,240 --> 00:08:30,920
+00:08:29,240 --> 00:08:31,536
 El archi-usurpador Yuan Shikai
 
 134
-00:08:31,560 --> 00:08:33,400
+00:08:31,560 --> 00:08:34,016
 quiere convertirse en emperador y restaurar el sistema imperial.
 
 135
-00:08:34,040 --> 00:08:36,920
+00:08:34,040 --> 00:08:37,376
 ¡La República de China está en peligro!
 
 136
-00:08:37,400 --> 00:08:38,920
+00:08:37,400 --> 00:08:39,536
 El traidor Yuan Shikai
 
 137
-00:08:39,560 --> 00:08:41,400
+00:08:39,560 --> 00:08:42,096
 ha firmado las Veintiuna Demandas.
 
 138
-00:08:42,120 --> 00:08:46,040
+00:08:42,120 --> 00:08:46,656
 ¡La nación china está en peligro!
 
 139
-00:08:46,680 --> 00:08:49,240
+00:08:46,680 --> 00:08:49,776
 Compatriotas, la República se muere.
 
 140
-00:08:49,800 --> 00:08:51,560
+00:08:49,800 --> 00:08:52,256
 Qingdao está a punto de perderse.
 
 141
-00:08:52,280 --> 00:08:55,640
+00:08:52,280 --> 00:08:56,176
 Paisanos, ¿qué decís?
 
 142
-00:08:56,200 --> 00:09:00,200
+00:08:56,200 --> 00:09:00,256
 ¡Volver a casa! ¡Volver a casa!
 
 143
-00:09:00,280 --> 00:09:01,880
+00:09:00,280 --> 00:09:02,176
 ¡Derrocar a Yuan! ¡Volver a casa!
 
 144
-00:09:02,200 --> 00:09:02,680
+00:09:02,200 --> 00:09:03,296
 ¡Volver a casa!
 
 145
-00:09:03,320 --> 00:09:03,640
+00:09:03,320 --> 00:09:03,696
 ¡Derrocar a Yuan!
 
 146
-00:09:03,720 --> 00:09:05,720
+00:09:03,720 --> 00:09:06,496
 Está bien, deja de gritar.
 
 147
-00:09:06,520 --> 00:09:09,080
+00:09:06,520 --> 00:09:09,616
 Depende de ustedes derrocar a Yuan.
 
 148
-00:09:09,640 --> 00:09:10,840
+00:09:09,640 --> 00:09:11,296
 No le hagas problemas al país.
 
 149
-00:09:11,320 --> 00:09:12,600
+00:09:11,320 --> 00:09:13,600
 ¿Qué dijiste?
 
 150
-00:09:13,960 --> 00:09:14,760
+00:09:13,960 --> 00:09:14,896
 Zhang Fengzai,
 
 151
-00:09:14,920 --> 00:09:17,640
+00:09:14,920 --> 00:09:18,016
 ahora que el pais esta en problemas y la republica se muere,
 
 152
-00:09:18,040 --> 00:09:19,640
+00:09:18,040 --> 00:09:20,496
 todos ustedes están siendo un poco excéntricos aquí.
 
 153
-00:09:20,520 --> 00:09:21,720
+00:09:20,520 --> 00:09:22,096
 ¿Sigues siendo chino?
 
 154
-00:09:22,120 --> 00:09:23,720
+00:09:22,120 --> 00:09:23,936
 ¿Te queda algo de patriotismo?
 
 155
-00:09:23,960 --> 00:09:25,640
+00:09:23,960 --> 00:09:25,856
 ¡Así es! ¡¿Eres chino?!
 
 156
-00:09:25,880 --> 00:09:26,600
+00:09:25,880 --> 00:09:26,896
 China ha estado en este estado
 
 157
-00:09:26,920 --> 00:09:28,120
+00:09:26,920 --> 00:09:28,176
 durante mucho más de un día o dos.
 
 158
-00:09:28,200 --> 00:09:29,640
+00:09:28,200 --> 00:09:29,856
 ¿Se puede salvar el país así?
 
 159
-00:09:29,880 --> 00:09:32,280
+00:09:29,880 --> 00:09:32,656
 ¡Es todo gracias a ustedes, gente apática!
 
 160
-00:09:32,680 --> 00:09:34,760
+00:09:32,680 --> 00:09:35,136
 ¡China está cayendo en una zanja de esa manera!
 
 161
-00:09:35,160 --> 00:09:37,240
+00:09:35,160 --> 00:09:38,240
 ¡Sí! ¡Es por ti!
 
 162
-00:09:39,320 --> 00:09:40,520
+00:09:39,320 --> 00:09:41,296
 ¿Debido a nosotros?
 
 163
-00:09:41,320 --> 00:09:44,120
+00:09:41,320 --> 00:09:45,120
 No aceptaremos esta acusación.
 
 164
-00:09:45,480 --> 00:09:47,320
+00:09:45,480 --> 00:09:47,776
 Si no fuera por esos estúpidos revolucionarios.
 
 165
-00:09:47,800 --> 00:09:50,360
+00:09:47,800 --> 00:09:50,656
 Si no hubieran querido copiar el sistema republicano estadounidense,
 
 166
-00:09:50,680 --> 00:09:53,000
+00:09:50,680 --> 00:09:53,536
 China habría sido una monarquía constitucional.
 
 167
-00:09:53,560 --> 00:09:54,440
+00:09:53,560 --> 00:09:54,656
 no hubiera resultado ser
 
 168
-00:09:54,680 --> 00:09:56,120
+00:09:54,680 --> 00:09:56,816
 la grotesca situación en la que nos encontramos hoy.
 
 169
-00:09:56,840 --> 00:09:58,760
+00:09:56,840 --> 00:09:59,056
 El intento de Yuan Shikai de introducir una monarquía constitucional
 
 170
-00:09:59,080 --> 00:10:00,920
+00:09:59,080 --> 00:10:01,536
 fue un verdadero regreso al camino correcto.
 
 171
-00:10:01,560 --> 00:10:03,400
+00:10:01,560 --> 00:10:03,616
 Esta es la manera de salvar a China.
 
 172
-00:10:03,640 --> 00:10:04,680
+00:10:03,640 --> 00:10:04,976
 La base de la prosperidad.
 
 173
-00:10:05,000 --> 00:10:05,800
+00:10:05,000 --> 00:10:06,016
 ¡Disparates!
 
 174
-00:10:06,040 --> 00:10:07,800
+00:10:06,040 --> 00:10:08,016
 ¡Ridículo! ¡Ridículo!
 
 175
-00:10:08,040 --> 00:10:09,160
+00:10:08,040 --> 00:10:09,536
 La idea de una república democrática.
 
 176
-00:10:09,560 --> 00:10:10,760
+00:10:09,560 --> 00:10:11,056
 ya está bien establecido.
 
 177
-00:10:11,080 --> 00:10:12,440
+00:10:11,080 --> 00:10:12,656
 ¿No estás conduciendo hacia atrás en la historia?
 
 178
-00:10:12,680 --> 00:10:15,640
+00:10:12,680 --> 00:10:16,096
 ¡Sí! ¡Así es! ¡Conducir hacia atrás!
 
 179
-00:10:16,120 --> 00:10:18,520
+00:10:16,120 --> 00:10:18,976
 ¿Somos nosotros los que estamos conduciendo hacia atrás en la historia?
 
 180
-00:10:19,000 --> 00:10:20,520
+00:10:19,000 --> 00:10:20,736
 ¿O son ustedes los revolucionarios?
 
 181
-00:10:20,760 --> 00:10:22,680
+00:10:20,760 --> 00:10:23,296
 ¡Ignorando las condiciones nacionales de China!
 
 182
-00:10:23,320 --> 00:10:25,080
+00:10:23,320 --> 00:10:25,616
 ¡Estudiantes! paisanos!
 
 183
-00:10:25,640 --> 00:10:27,400
+00:10:25,640 --> 00:10:27,696
 Kang Youwei ha dicho durante mucho tiempo
 
 184
-00:10:27,720 --> 00:10:29,640
+00:10:27,720 --> 00:10:30,576
 una revolución no es algo bueno para un país.
 
 185
-00:10:30,600 --> 00:10:31,320
+00:10:30,600 --> 00:10:31,776
 La Revolución Francesa,
 
 186
-00:10:31,800 --> 00:10:33,880
+00:10:31,800 --> 00:10:34,416
 ochenta años de agitación y derramamiento de sangre de millones.
 
 187
-00:10:34,440 --> 00:10:37,240
+00:10:34,440 --> 00:10:37,936
 Además, el pueblo chino aún no tiene la mente abierta.
 
 188
-00:10:37,960 --> 00:10:38,760
+00:10:37,960 --> 00:10:39,056
 En este caso,
 
 189
-00:10:39,080 --> 00:10:40,600
+00:10:39,080 --> 00:10:40,736
 la imposición forzada de un sistema republicano
 
 190
-00:10:40,760 --> 00:10:43,240
+00:10:40,760 --> 00:10:43,696
 será como la lenteja de agua flotando en el agua, ¡sin raíces!
 
 191
-00:10:43,720 --> 00:10:46,200
+00:10:43,720 --> 00:10:46,525
 Zhang Fengzai, lo que acabas de decir
 
 192
-00:10:46,549 --> 00:10:48,040
+00:10:46,549 --> 00:10:48,976
 es absolutamente absurdo!
 
 193
-00:10:49,000 --> 00:10:49,800
+00:10:49,000 --> 00:10:50,416
 Las palabras de Kang Youwei
 
 194
-00:10:50,440 --> 00:10:52,440
+00:10:50,440 --> 00:10:53,216
 han sido refutados por muchos mártires revolucionarios.
 
 195
-00:10:53,240 --> 00:10:54,360
+00:10:53,240 --> 00:10:54,816
 La revolución ciertamente derramará sangre.
 
 196
-00:10:54,840 --> 00:10:56,200
+00:10:54,840 --> 00:10:56,656
 Pero me gustaría preguntarte,
 
 197
-00:10:56,680 --> 00:10:59,880
+00:10:56,680 --> 00:11:00,336
 ¿La monarquía constitucional, tampoco derramará sangre?
 
 198
-00:11:00,360 --> 00:11:00,840
+00:11:00,360 --> 00:11:00,896
 ¡Correcto!
 
 199
 00:11:00,920 --> 00:11:05,679
-[Zhang Shizhao, llamado Xingyan, famoso activista social obligado a exiliarse en Japón por su participación en la "Segunda Revolución" contra Yuan Shikai]
+{\an8}[Zhang Shizhao, llamado Xingyan, famoso activista social obligado a exiliarse en Japón por su participación en la "Segunda Revolución" contra Yuan Shikai]
 
 200
-00:11:01,240 --> 00:11:02,840
+00:11:01,240 --> 00:11:02,896
 ¡Sí! ¡Así es!
 
 201
-00:11:02,920 --> 00:11:05,400
+00:11:02,920 --> 00:11:05,696
 Gran Bretaña, Austria, Alemania, Italia.
 
 202
-00:11:05,720 --> 00:11:07,240
+00:11:05,720 --> 00:11:07,296
 ¿Qué país no ha experimentado
 
 203
-00:11:07,320 --> 00:11:08,600
+00:11:07,320 --> 00:11:08,976
 muchos cambios
 
 204
-00:11:09,000 --> 00:11:10,200
+00:11:09,000 --> 00:11:10,416
 e hizo grandes sacrificios
 
 205
-00:11:10,440 --> 00:11:13,320
+00:11:10,440 --> 00:11:13,856
 antes de que haya logrado un progreso social real?
 
 206
-00:11:13,880 --> 00:11:15,080
+00:11:13,880 --> 00:11:15,536
 Otra cosa que quiero preguntarte es,
 
 207
-00:11:15,560 --> 00:11:16,920
+00:11:15,560 --> 00:11:17,536
 ¿que acabas de decir?
 
 208
-00:11:17,560 --> 00:11:20,840
+00:11:17,560 --> 00:11:21,216
 ¿La gente de nuestro país aún no tiene la mente abierta?
 
 209
-00:11:21,240 --> 00:11:22,840
+00:11:21,240 --> 00:11:23,696
 ¡Eso es demostrablemente falso!
 
 210
-00:11:23,720 --> 00:11:25,000
+00:11:23,720 --> 00:11:25,456
 Desde la revolución de Xinhai,
 
 211
-00:11:25,480 --> 00:11:26,840
+00:11:25,480 --> 00:11:27,136
 el pensamiento de toda la población
 
 212
-00:11:27,160 --> 00:11:30,040
+00:11:27,160 --> 00:11:30,496
 ya ha sufrido cambios trascendentales.
 
 213
-00:11:30,520 --> 00:11:33,000
+00:11:30,520 --> 00:11:33,296
 A juzgar por el rechazo unánime de Yuan en el país y en el extranjero,
 
 214
-00:11:33,320 --> 00:11:34,520
+00:11:33,320 --> 00:11:35,136
 esta es una evidencia contundente.
 
 215
-00:11:35,160 --> 00:11:36,840
+00:11:35,160 --> 00:11:37,696
 Cuanto más en peligro está la nación,
 
 216
-00:11:37,720 --> 00:11:39,880
+00:11:37,720 --> 00:11:40,176
 más debería llamar la conciencia de las personas
 
 217
-00:11:40,200 --> 00:11:41,720
+00:11:40,200 --> 00:11:42,256
 y vigorizar el espíritu nacional.
 
 218
-00:11:42,280 --> 00:11:44,360
+00:11:42,280 --> 00:11:44,736
 Y si la idea del republicanismo
 
 219
-00:11:44,760 --> 00:11:45,480
+00:11:44,760 --> 00:11:45,776
 hay que inculcar en el pueblo,
 
 220
-00:11:45,800 --> 00:11:48,440
+00:11:45,800 --> 00:11:48,976
 es necesario derrocar la ideología feudal.
 
 221
-00:11:49,000 --> 00:11:51,800
+00:11:49,000 --> 00:11:52,256
 Zhang Fengzai, los que van contra la corriente de la historia
 
 222
-00:11:52,280 --> 00:11:54,600
+00:11:52,280 --> 00:11:54,976
 serán ahogados por el torrente de los tiempos.
 
 223
-00:11:55,000 --> 00:11:56,120
+00:11:55,000 --> 00:11:56,656
 Por amor a la patria,
 
 224
-00:11:56,680 --> 00:11:59,000
+00:11:56,680 --> 00:11:59,856
 debemos salvar nuestro país. Derrocar a Yuan.
 
 225
-00:11:59,880 --> 00:12:01,880
+00:11:59,880 --> 00:12:02,416
 Por nuestra nación china,
 
 226
-00:12:02,440 --> 00:12:05,320
+00:12:02,440 --> 00:12:05,696
 debemos salvar nuestro país. ¡Derrocar a Yuan!
 
 227
@@ -907,7 +907,7 @@ debemos salvar nuestro país. ¡Derrocar a Yuan!
 ¡Salva al país! ¡Derrocar a Yuan!
 
 228
-00:12:14,040 --> 00:12:14,748
+00:12:14,040 --> 00:12:15,748
 ¡Bien dicho!
 
 229
@@ -915,267 +915,267 @@ debemos salvar nuestro país. ¡Derrocar a Yuan!
 ¡Bien dicho!
 
 230
-00:12:16,680 --> 00:12:19,000
+00:12:16,680 --> 00:12:20,000
 Sr. Xingyan. Sr. Xingyan.
 
 231
-00:12:20,680 --> 00:12:21,240
+00:12:20,680 --> 00:12:21,936
 Hola estudiantes.
 
 232
-00:12:21,960 --> 00:12:22,760
+00:12:21,960 --> 00:12:23,376
 Las palabras de Shouchang
 
 233
-00:12:23,400 --> 00:12:25,640
+00:12:23,400 --> 00:12:26,416
 fueron bien razonadas, auténticas,
 
 234
-00:12:26,440 --> 00:12:28,600
+00:12:26,440 --> 00:12:29,296
 apasionado, cautivador.
 
 235
-00:12:29,320 --> 00:12:29,800
+00:12:29,320 --> 00:12:30,656
 Excelente.
 
 236
-00:12:30,680 --> 00:12:32,920
+00:12:30,680 --> 00:12:33,376
 Zhongfu, ¿qué opinas?
 
 237
-00:12:33,400 --> 00:12:34,920
+00:12:33,400 --> 00:12:35,920
 ¿Zhongfu? ¿Chen Duxiu?
 
 238
-00:12:36,120 --> 00:12:37,000
+00:12:36,120 --> 00:12:37,456
 ¡Es Chen Duxiu!
 
 239
-00:12:37,480 --> 00:12:38,384
+00:12:37,480 --> 00:12:39,384
 ¡Chen Duxiu!
 
 240
-00:12:39,599 --> 00:12:40,720
+00:12:39,599 --> 00:12:40,736
 ¿Es Chen Duxiu?
 
 241
-00:12:40,760 --> 00:12:41,960
+00:12:40,760 --> 00:12:42,176
 ¿Por qué se ve así?
 
 242
 00:12:42,200 --> 00:12:49,009
-[Chen Duxiu, llamado Zhongfu, famoso revolucionario obligado a exiliarse en Japón por su participación en la "Segunda Revolución" contra Yuan Shikai]
+{\an8}[Chen Duxiu, llamado Zhongfu, famoso revolucionario obligado a exiliarse en Japón por su participación en la "Segunda Revolución" contra Yuan Shikai]
 
 243
-00:12:43,240 --> 00:12:44,520
+00:12:43,240 --> 00:12:45,296
 ¿Podría ser Chen Duxiu?
 
 244
-00:12:45,320 --> 00:12:46,120
+00:12:45,320 --> 00:12:47,120
 no puede ser
 
 245
-00:12:47,800 --> 00:12:48,840
+00:12:47,800 --> 00:12:49,536
 Como dijiste,
 
 246
-00:12:49,560 --> 00:12:51,000
+00:12:49,560 --> 00:12:51,376
 él es un joven muy bien informado.
 
 247
-00:12:51,400 --> 00:12:51,960
+00:12:51,400 --> 00:12:52,960
 Chen Duxiu.
 
 248
-00:12:53,160 --> 00:12:54,600
+00:12:53,160 --> 00:12:54,816
 ¿Por qué estás comiendo aquí?
 
 249
-00:12:54,840 --> 00:12:55,800
+00:12:54,840 --> 00:12:56,336
 solo estaba de paso
 
 250
-00:12:56,360 --> 00:12:57,480
+00:12:56,360 --> 00:12:57,616
 verlos discutiendo.
 
 251
-00:12:57,640 --> 00:12:58,440
+00:12:57,640 --> 00:12:59,216
 Nadie estaba comiendo.
 
 252
-00:12:59,240 --> 00:13:00,920
+00:12:59,240 --> 00:13:01,216
 La comida no debe desperdiciarse en ningún momento.
 
 253
-00:13:01,240 --> 00:13:02,520
+00:13:01,240 --> 00:13:03,520
 Es vergonzoso desperdiciar la comida.
 
 254
-00:13:03,800 --> 00:13:05,880
+00:13:03,800 --> 00:13:06,880
 ¿Qué hora es? ¿Sigues comiendo aquí?
 
 255
-00:13:09,800 --> 00:13:10,840
+00:13:09,800 --> 00:13:11,840
 ¿Eres Chen Duxiu?
 
 256
-00:13:12,040 --> 00:13:13,320
+00:13:12,040 --> 00:13:13,696
 Yo soy, sí.
 
 257
-00:13:13,720 --> 00:13:14,200
+00:13:13,720 --> 00:13:14,256
 ¡Él realmente lo es!
 
 258
-00:13:14,280 --> 00:13:15,160
+00:13:14,280 --> 00:13:16,160
 Soy Chen Duxiu.
 
 259
-00:13:17,560 --> 00:13:18,200
+00:13:17,560 --> 00:13:18,336
 ¡Él es! ¡Él es Chen Duxiu!
 
 260
-00:13:18,360 --> 00:13:19,320
+00:13:18,360 --> 00:13:20,320
 ¡Silencio, todos!
 
 261
-00:13:20,600 --> 00:13:21,080
+00:13:20,600 --> 00:13:22,080
 ¡Tranquilo!
 
 262
-00:13:22,520 --> 00:13:23,800
+00:13:22,520 --> 00:13:24,416
 Ya que el Sr. Zhongfu está aquí,
 
 263
-00:13:24,440 --> 00:13:25,240
+00:13:24,440 --> 00:13:25,776
 nos gustaría preguntarle,
 
 264
-00:13:25,800 --> 00:13:28,120
+00:13:25,800 --> 00:13:28,976
 ¿Qué crees que se debe hacer para salvar a China?
 
 265
-00:13:29,000 --> 00:13:29,640
+00:13:29,000 --> 00:13:30,496
 pienso que
 
 266
-00:13:30,520 --> 00:13:31,720
+00:13:30,520 --> 00:13:31,936
 un país así no tiene remedio.
 
 267
-00:13:31,960 --> 00:13:32,680
+00:13:31,960 --> 00:13:33,376
 ¿Qué dijiste?
 
 268
-00:13:33,400 --> 00:13:35,240
+00:13:33,400 --> 00:13:36,240
 ¿Eres chino? Cómo puedes decir eso?
 
 269
-00:13:37,720 --> 00:13:39,800
+00:13:37,720 --> 00:13:40,176
 Chen Duxiu. ¿Estás hablando de personas?
 
 270
-00:13:40,200 --> 00:13:41,400
+00:13:40,200 --> 00:13:42,400
 ¡Simplemente desvergonzado!
 
 271
-00:13:42,600 --> 00:13:43,400
+00:13:42,600 --> 00:13:44,176
 ¡Desvergonzado!
 
 272
-00:13:44,200 --> 00:13:44,680
+00:13:44,200 --> 00:13:44,816
 ¿Qué estás haciendo?
 
 273
-00:13:44,840 --> 00:13:45,400
+00:13:44,840 --> 00:13:46,400
 ¡Has ido demasiado lejos!
 
 274
-00:13:47,480 --> 00:13:49,720
+00:13:47,480 --> 00:13:50,176
 Sr. Zhongfu, lo que acaba de decir,
 
 275
-00:13:50,200 --> 00:13:51,400
+00:13:50,200 --> 00:13:52,176
 ¿Realmente crees eso?
 
 276
-00:13:52,200 --> 00:13:53,080
+00:13:52,200 --> 00:13:53,616
 Sí, por supuesto.
 
 277
-00:13:53,640 --> 00:13:54,920
+00:13:53,640 --> 00:13:54,976
 Pero sí, quise decir...
 
 278
-00:13:55,000 --> 00:13:56,240
+00:13:55,000 --> 00:13:56,814
 ¡¿Verás?!
 
 279
-00:13:56,838 --> 00:13:58,880
+00:13:56,838 --> 00:13:59,136
 ¡Estudiantes! ¡Lo has visto!
 
 280
-00:13:59,160 --> 00:14:00,920
+00:13:59,160 --> 00:14:01,616
 ¡Esto es lo que llamas un revolucionario!
 
 281
-00:14:01,640 --> 00:14:02,760
+00:14:01,640 --> 00:14:03,216
 ¡Un gran revolucionario!
 
 282
-00:14:03,240 --> 00:14:04,600
+00:14:03,240 --> 00:14:05,056
 ¿Sabes lo que dijo?
 
 283
-00:14:05,080 --> 00:14:06,920
+00:14:05,080 --> 00:14:07,216
 ¡Dijo que no le importaba la subyugación de su país!
 
 284
-00:14:07,240 --> 00:14:07,960
+00:14:07,240 --> 00:14:08,416
 ¿Qué más?
 
 285
-00:14:08,440 --> 00:14:11,160
+00:14:08,440 --> 00:14:11,776
 ¿Qué tiene de terrible ser esclavo de un país subyugado?
 
 286
-00:14:11,800 --> 00:14:14,840
+00:14:11,800 --> 00:14:15,840
 ¿Dónde está el amor por un país de un pueblo brutalizado?
 
 287
-00:14:16,280 --> 00:14:19,640
+00:14:16,280 --> 00:14:19,776
 Este es el verdadero traidor! ¡Un hanjian!
 
 288
-00:14:19,800 --> 00:14:20,920
+00:14:19,800 --> 00:14:21,096
 ¡Traidor! ¡Hanjian!
 
 289
-00:14:21,120 --> 00:14:22,440
+00:14:21,120 --> 00:14:23,136
 ¡Hanjian!
 
 290
-00:14:23,160 --> 00:14:24,280
+00:14:23,160 --> 00:14:24,736
 ¡Muévete del camino!
 
 291
-00:14:24,760 --> 00:14:26,040
+00:14:24,760 --> 00:14:27,040
 ¡No lo hagas!
 
 292
-00:14:27,320 --> 00:14:28,440
+00:14:27,320 --> 00:14:28,656
 ¡Solo hablemos!
 
 293
-00:14:28,680 --> 00:14:29,240
+00:14:28,680 --> 00:14:29,936
 ¡No lo hagas!
 
 294
-00:14:29,960 --> 00:14:31,000
+00:14:29,960 --> 00:14:31,056
 ¡Detener!
 
 295
-00:14:31,080 --> 00:14:32,868
+00:14:31,080 --> 00:14:33,159
 ¡No lo hagas!
 
 296
@@ -1183,475 +1183,475 @@ Este es el verdadero traidor! ¡Un hanjian!
 ¡No lo hagas!
 
 297
-00:14:33,640 --> 00:14:34,840
+00:14:33,640 --> 00:14:35,136
 Sr. Zhongfu, ¡vaya!
 
 298
-00:14:35,160 --> 00:14:36,440
+00:14:35,160 --> 00:14:37,136
 ¡No lo hagas!
 
 299
-00:14:37,160 --> 00:14:39,240
+00:14:37,160 --> 00:14:39,856
 ¡Solo hablemos! ¡No lo hagas!
 
 300
-00:14:39,880 --> 00:14:41,160
+00:14:39,880 --> 00:14:41,456
 ¡Vamos, por aquí!
 
 301
-00:14:41,480 --> 00:14:43,240
+00:14:41,480 --> 00:14:43,296
 ¡No lo hagáis, gente, no lo hagáis!
 
 302
-00:14:43,320 --> 00:14:44,120
+00:14:43,320 --> 00:14:44,176
 ¡Escúchame un momento!
 
 303
-00:14:44,200 --> 00:14:45,225
+00:14:44,200 --> 00:14:45,410
 ¡El Sr. Xingyan tiene un mensaje para todos!
 
 304
-00:14:45,434 --> 00:14:46,720
+00:14:45,434 --> 00:14:46,976
 ¡El Sr. Xingyan tiene un mensaje para todos!
 
 305
-00:14:47,000 --> 00:14:48,120
+00:14:47,000 --> 00:14:48,176
 ¡Vamos, todos, déjenme decirles algo!
 
 306
-00:14:48,200 --> 00:14:49,080
+00:14:48,200 --> 00:14:50,080
 ¡Vamos vamos!
 
 307
-00:15:04,600 --> 00:15:04,920
+00:15:04,600 --> 00:15:05,216
 Bien.
 
 308
-00:15:05,240 --> 00:15:06,920
+00:15:05,240 --> 00:15:07,776
 Está bien, está bien, nadie está siguiendo.
 
 309
-00:15:07,800 --> 00:15:08,520
+00:15:07,800 --> 00:15:09,520
 Tómate un descanso, tómate un descanso.
 
 310
-00:15:31,720 --> 00:15:33,000
+00:15:31,720 --> 00:15:34,000
 No como Chen Duxiu, ¿verdad?
 
 311
-00:15:35,160 --> 00:15:37,320
+00:15:35,160 --> 00:15:37,376
 acabo de imaginar
 
 312
-00:15:37,400 --> 00:15:38,520
+00:15:37,400 --> 00:15:39,376
 algo un poco diferente.
 
 313
-00:15:39,400 --> 00:15:41,000
+00:15:39,400 --> 00:15:42,000
 Entonces, ¿cómo imaginas que debería ser?
 
 314
-00:15:42,040 --> 00:15:42,680
+00:15:42,040 --> 00:15:43,680
 ¿Estás bien?
 
 315
-00:15:44,120 --> 00:15:46,440
+00:15:44,120 --> 00:15:46,976
 Pido disculpas por la situación.
 
 316
-00:15:47,000 --> 00:15:49,880
+00:15:47,000 --> 00:15:50,880
 Está bien, he visto muchos de estos.
 
 317
-00:15:53,080 --> 00:15:53,560
+00:15:53,080 --> 00:15:53,616
 Tu artículo
 
 318
-00:15:53,640 --> 00:15:56,360
+00:15:53,640 --> 00:15:57,056
 "Autoconciencia sobre el patriotismo", lo he leído.
 
 319
-00:15:57,080 --> 00:15:58,840
+00:15:57,080 --> 00:15:59,296
 Pero hay muchas dudas y preguntas sin respuesta.
 
 320
-00:15:59,320 --> 00:16:01,000
+00:15:59,320 --> 00:16:01,216
 Me gustaría preguntarte algo, ¿está bien?
 
 321
-00:16:01,240 --> 00:16:03,800
+00:16:01,240 --> 00:16:04,336
 Sé que tú, Li Dazhao, eres de Hebei.
 
 322
-00:16:04,360 --> 00:16:07,320
+00:16:04,360 --> 00:16:07,776
 Yanzhao está lleno de gente generosa y afligida, insisten sin cesar.
 
 323
-00:16:07,800 --> 00:16:08,600
+00:16:07,800 --> 00:16:08,736
 Pero ahora en China
 
 324
-00:16:08,760 --> 00:16:10,520
+00:16:08,760 --> 00:16:11,136
 hay una escasez de hombres de verdad que insisten sin cesar.
 
 325
-00:16:11,160 --> 00:16:11,880
+00:16:11,160 --> 00:16:12,176
 Preguntar.
 
 326
-00:16:12,200 --> 00:16:14,680
+00:16:12,200 --> 00:16:14,896
 Dijiste que el patriotismo debe tener una posición,
 
 327
-00:16:14,920 --> 00:16:16,440
+00:16:14,920 --> 00:16:16,496
 y no, bajo la bandera del patriotismo,
 
 328
-00:16:16,520 --> 00:16:18,280
+00:16:16,520 --> 00:16:18,976
 ser uno de los súbditos obedientes de Yuan Shikai.
 
 329
-00:16:19,000 --> 00:16:20,920
+00:16:19,000 --> 00:16:21,296
 Entonces según tú,
 
 330
-00:16:21,320 --> 00:16:22,600
+00:16:21,320 --> 00:16:22,656
 mientras Yuan Shikai esté en el poder,
 
 331
-00:16:22,680 --> 00:16:23,880
+00:16:22,680 --> 00:16:24,880
 la gente no debe ser patriótica.
 
 332
-00:16:25,560 --> 00:16:27,960
+00:16:25,560 --> 00:16:28,416
 Hombre terco, lo malinterpretaste.
 
 333
-00:16:28,440 --> 00:16:29,800
+00:16:28,440 --> 00:16:30,256
 Quise decir,
 
 334
-00:16:30,280 --> 00:16:32,040
+00:16:30,280 --> 00:16:32,656
 el patriotismo debe tener una posición,
 
 335
-00:16:32,680 --> 00:16:35,080
+00:16:32,680 --> 00:16:35,296
 y el patriotismo no deben confundirse
 
 336
-00:16:35,320 --> 00:16:36,200
+00:16:35,320 --> 00:16:36,416
 con lealtad a Yuan Shikai,
 
 337
-00:16:36,440 --> 00:16:37,640
+00:16:36,440 --> 00:16:37,696
 bajo la bandera del patriotismo,
 
 338
-00:16:37,720 --> 00:16:40,520
+00:16:37,720 --> 00:16:40,976
 encubrir la usurpación del poder estatal por parte de Yuan Shikai.
 
 339
-00:16:41,000 --> 00:16:42,120
+00:16:41,000 --> 00:16:42,416
 Esto es similar a lo que acabas de decir,
 
 340
-00:16:42,440 --> 00:16:43,320
+00:16:42,440 --> 00:16:43,856
 ¿no lo es?
 
 341
-00:16:43,880 --> 00:16:44,760
+00:16:43,880 --> 00:16:44,976
 Entonces Yuan Shikai
 
 342
-00:16:45,000 --> 00:16:47,640
+00:16:45,000 --> 00:16:48,096
 sigue diciendo que representa al país,
 
 343
-00:16:48,120 --> 00:16:49,720
+00:16:48,120 --> 00:16:50,176
 está confundiendo diferentes conceptos.
 
 344
-00:16:50,200 --> 00:16:52,840
+00:16:50,200 --> 00:16:53,616
 Si el patriotismo no tiene posición,
 
 345
-00:16:53,640 --> 00:16:55,160
+00:16:53,640 --> 00:16:55,296
 entonces simplemente no tenemos razón
 
 346
-00:16:55,320 --> 00:16:56,280
+00:16:55,320 --> 00:16:57,056
 para derrotar a Yuan Shikai.
 
 347
-00:16:57,080 --> 00:16:58,280
+00:16:57,080 --> 00:16:58,816
 Estoy completamente de acuerdo.
 
 348
-00:16:58,840 --> 00:17:00,360
+00:16:58,840 --> 00:17:00,576
 Creo que la primera prioridad hoy es
 
 349
-00:17:00,600 --> 00:17:03,000
+00:17:00,600 --> 00:17:03,856
 para inspirar a la gente a ser verdaderamente patriótico.
 
 350
-00:17:03,880 --> 00:17:06,040
+00:17:03,880 --> 00:17:06,416
 En este momento, China está siendo dividida por las potencias occidentales.
 
 351
-00:17:06,440 --> 00:17:07,640
+00:17:06,440 --> 00:17:07,776
 Si no todos son patriotas,
 
 352
-00:17:07,800 --> 00:17:09,240
+00:17:07,800 --> 00:17:09,856
 entonces el país morirá.
 
 353
-00:17:09,880 --> 00:17:11,800
+00:17:09,880 --> 00:17:12,256
 Shouchang, te pido,
 
 354
-00:17:12,280 --> 00:17:15,160
+00:17:12,280 --> 00:17:15,456
 ¿En qué se basaron las potencias occidentales para repartirse China?
 
 355
-00:17:15,480 --> 00:17:16,120
+00:17:15,480 --> 00:17:16,336
 cañoneras.
 
 356
-00:17:16,360 --> 00:17:16,840
+00:17:16,360 --> 00:17:17,296
 No.
 
 357
-00:17:17,320 --> 00:17:19,400
+00:17:17,320 --> 00:17:19,776
 Estás hablando de la Guerra del Opio y el fracaso naval de la Guerra Jiawu.
 
 358
-00:17:19,800 --> 00:17:23,160
+00:17:19,800 --> 00:17:24,160
 Ahora las potencias están dividiendo a China pidiendo dinero prestado.
 
 359
-00:17:24,200 --> 00:17:25,080
+00:17:24,200 --> 00:17:25,296
 el gobierno chino
 
 360
-00:17:25,320 --> 00:17:28,440
+00:17:25,320 --> 00:17:28,976
 toma prestada deuda externa de los países occidentales cada año,
 
 361
-00:17:29,000 --> 00:17:30,760
+00:17:29,000 --> 00:17:31,376
 representando más de la mitad de los ingresos del tesoro
 
 362
-00:17:31,400 --> 00:17:33,000
+00:17:31,400 --> 00:17:34,000
 en un país sin productividad.
 
 363
-00:17:34,200 --> 00:17:37,400
+00:17:34,200 --> 00:17:37,536
 Solo confiando en el ferrocarril fiscal nacional como garantía
 
 364
-00:17:37,560 --> 00:17:39,320
+00:17:37,560 --> 00:17:39,776
 podemos pedir dinero prestado para mantener el poder político.
 
 365
-00:17:39,800 --> 00:17:41,640
+00:17:39,800 --> 00:17:42,016
 ¿Qué esperas de un país como este?
 
 366
-00:17:42,040 --> 00:17:44,120
+00:17:42,040 --> 00:17:44,416
 Por eso vamos a derrocar a Yuan,
 
 367
-00:17:44,440 --> 00:17:46,040
+00:17:44,440 --> 00:17:46,256
 derrocar a este gobierno corrupto,
 
 368
-00:17:46,280 --> 00:17:47,400
+00:17:46,280 --> 00:17:47,536
 y construir una nueva nación.
 
 369
-00:17:47,560 --> 00:17:48,040
+00:17:47,560 --> 00:17:49,040
 ¡No!
 
 370
-00:17:50,120 --> 00:17:51,880
+00:17:50,120 --> 00:17:52,256
 ¿Puede China ser salvada por la revolución política?
 
 371
-00:17:52,280 --> 00:17:53,800
+00:17:52,280 --> 00:17:54,176
 Los problemas de China se están acumulando.
 
 372
-00:17:54,200 --> 00:17:56,440
+00:17:54,200 --> 00:17:57,440
 ¿Podemos resolver los problemas cambiando personas o gobiernos?
 
 373
-00:17:58,280 --> 00:17:59,400
+00:17:58,280 --> 00:17:59,456
 Así que según tú,
 
 374
-00:17:59,480 --> 00:18:01,080
+00:17:59,480 --> 00:18:01,376
 nuestra China no tiene salida?
 
 375
-00:18:01,400 --> 00:18:04,040
+00:18:01,400 --> 00:18:05,040
 Hay una forma, pero la salida no es la forma antigua.
 
 376
-00:18:05,400 --> 00:18:06,920
+00:18:05,400 --> 00:18:07,776
 La salida es una nueva forma.
 
 377
-00:18:07,800 --> 00:18:08,840
+00:18:07,800 --> 00:18:09,296
 China no morirá.
 
 378
-00:18:09,320 --> 00:18:09,880
+00:18:09,320 --> 00:18:10,416
 ¿Cuál es la forma antigua?
 
 379
-00:18:10,440 --> 00:18:11,240
+00:18:10,440 --> 00:18:11,776
 El ciclo dinástico.
 
 380
-00:18:11,800 --> 00:18:12,600
+00:18:11,800 --> 00:18:12,656
 El derrocamiento de una antigua dinastía,
 
 381
-00:18:12,680 --> 00:18:13,640
+00:18:12,680 --> 00:18:13,776
 el establecimiento de una nueva dinastía.
 
 382
-00:18:13,800 --> 00:18:15,160
+00:18:13,800 --> 00:18:15,376
 El ciclo se repite. Es la vieja manera.
 
 383
-00:18:15,400 --> 00:18:16,200
+00:18:15,400 --> 00:18:16,496
 ¿Y cuál es la nueva forma?
 
 384
-00:18:16,520 --> 00:18:17,080
+00:18:16,520 --> 00:18:18,080
 no sé
 
 385
-00:18:23,640 --> 00:18:24,280
+00:18:23,640 --> 00:18:25,280
 Eso es lo que estoy buscando.
 
 386
-00:18:25,640 --> 00:18:28,200
+00:18:25,640 --> 00:18:28,816
 Shouchang, aprecio tu conocimiento y talento.
 
 387
-00:18:28,840 --> 00:18:30,280
+00:18:28,840 --> 00:18:31,216
 ¿Buscarás este nuevo camino conmigo?
 
 388
-00:18:31,240 --> 00:18:33,480
+00:18:31,240 --> 00:18:33,856
 Para encontrar una manera de salvar a China
 
 389
-00:18:33,880 --> 00:18:35,880
+00:18:33,880 --> 00:18:36,736
 es el trabajo de mi vida.
 
 390
-00:18:36,760 --> 00:18:37,560
+00:18:36,760 --> 00:18:38,560
 Voy a.
 
 391
-00:18:38,760 --> 00:18:39,640
+00:18:38,760 --> 00:18:40,640
 Bien.
 
 392
-00:18:44,440 --> 00:18:45,320
+00:18:44,440 --> 00:18:46,320
 ¡Zhongfu!
 
 393
-00:18:48,040 --> 00:18:49,800
+00:18:48,040 --> 00:18:49,936
 Ambos han venido aquí
 
 394
-00:18:49,960 --> 00:18:51,560
+00:18:49,960 --> 00:18:51,856
 y nos hizo buscarte!
 
 395
-00:18:51,880 --> 00:18:53,640
+00:18:51,880 --> 00:18:54,416
 Entradas... tenemos las entradas.
 
 396
-00:18:54,440 --> 00:18:55,800
+00:18:54,440 --> 00:18:56,800
 Mañana podemos volver a casa.
 
 397
-00:18:57,080 --> 00:18:59,480
+00:18:57,080 --> 00:18:59,856
 Excelente. Por fin podemos volver atrás.
 
 398
-00:18:59,880 --> 00:19:02,440
+00:18:59,880 --> 00:19:02,656
 Zhongfu, antes de volver,
 
 399
-00:19:02,680 --> 00:19:04,120
+00:19:02,680 --> 00:19:05,056
 Finalmente pude ver a Shouchang.
 
 400
-00:19:05,080 --> 00:19:06,840
+00:19:05,080 --> 00:19:06,976
 No es en vano que tomaste
 
 401
-00:19:07,000 --> 00:19:08,520
+00:19:07,000 --> 00:19:08,758
 el delito de ser traidor.
 
 402
-00:19:08,782 --> 00:19:10,108
+00:19:08,782 --> 00:19:11,108
 No en vano... no en vano...
 
 403
-00:19:11,400 --> 00:19:12,040
+00:19:11,400 --> 00:19:13,040
 ¿Verme?
 
 404
-00:19:13,160 --> 00:19:13,800
+00:19:13,160 --> 00:19:14,416
 Sí.
 
 405
-00:19:14,440 --> 00:19:16,200
+00:19:14,440 --> 00:19:17,056
 Él está aquí para verte hoy.
 
 406
-00:19:17,080 --> 00:19:18,440
+00:19:17,080 --> 00:19:18,496
 Desde que estaba en el "El Tigre",
 
 407
-00:19:18,520 --> 00:19:20,120
+00:19:18,520 --> 00:19:20,496
 y lee tu artículo,
 
 408
-00:19:20,520 --> 00:19:22,120
+00:19:20,520 --> 00:19:22,416
 ha estado deseando verte.
 
 409
-00:19:22,440 --> 00:19:23,160
+00:19:22,440 --> 00:19:23,616
 Valió la pena el viaje.
 
 410
-00:19:23,640 --> 00:19:26,280
+00:19:23,640 --> 00:19:27,280
 La cosecha es muy rica, como el tesoro.
 
 411
-00:19:28,200 --> 00:19:30,520
+00:19:28,200 --> 00:19:30,656
 Tú... siempre te quedas en casa y escribes artículos.
 
 412
-00:19:30,680 --> 00:19:31,400
+00:19:30,680 --> 00:19:31,456
 no dejar que te cuidemos,
 
 413
-00:19:31,480 --> 00:19:32,360
+00:19:31,480 --> 00:19:32,416
 ni dejarnos hacer preguntas,
 
 414
-00:19:32,440 --> 00:19:34,040
+00:19:32,440 --> 00:19:34,336
 poniéndote como un mendigo.
 
 415
@@ -1660,408 +1660,408 @@ Pelo despeinado, cara sucia y cuerpo cubierto de piojos.
 
 416
 00:19:35,039 --> 00:19:40,440
-[Yi Baisha, llamado Yuecun, famoso pensador obligado a exiliarse en Japón por participar en la "Segunda Revolución" contra Yuan Shikai]
+{\an8}[Yi Baisha, llamado Yuecun, famoso pensador obligado a exiliarse en Japón por participar en la "Segunda Revolución" contra Yuan Shikai]
 
 417
-00:19:36,360 --> 00:19:37,560
+00:19:36,360 --> 00:19:37,856
 ¡Vas a asustar a Junman en casa!
 
 418
-00:19:37,880 --> 00:19:38,600
+00:19:37,880 --> 00:19:38,816
 ¡Date prisa en volver!
 
 419
-00:19:38,840 --> 00:19:40,440
+00:19:38,840 --> 00:19:40,816
 Córtate el pelo, báñate y cámbiate de ropa.
 
 420
-00:19:40,840 --> 00:19:41,800
+00:19:40,840 --> 00:19:42,016
 hay un baño
 
 421
-00:19:42,040 --> 00:19:43,560
+00:19:42,040 --> 00:19:44,176
 y solo hay una muda de ropa.
 
 422
-00:19:44,200 --> 00:19:44,520
+00:19:44,200 --> 00:19:44,816
 Bien.
 
 423
-00:19:44,840 --> 00:19:46,440
+00:19:44,840 --> 00:19:47,440
 Hermano Zhongfu. Esperar.
 
 424
-00:19:51,160 --> 00:19:53,000
+00:19:51,160 --> 00:19:54,000
 Hace viento en el mar. Cuídate.
 
 425
-00:19:58,360 --> 00:20:01,320
+00:19:58,360 --> 00:20:02,320
 Bien, entonces estaré encantado de hacerlo.
 
 426
-00:20:02,680 --> 00:20:05,720
+00:20:02,680 --> 00:20:06,016
 Shouchang, hoy te debo tres favores.
 
 427
-00:20:06,040 --> 00:20:08,200
+00:20:06,040 --> 00:20:08,496
 En el futuro, debe recordar pedirlos.
 
 428
-00:20:08,520 --> 00:20:09,160
+00:20:08,520 --> 00:20:09,376
 ¿Qué son?
 
 429
-00:20:09,400 --> 00:20:11,000
+00:20:09,400 --> 00:20:11,216
 Una es ayudarme a salir del apuro.
 
 430
-00:20:11,240 --> 00:20:12,520
+00:20:11,240 --> 00:20:12,976
 La segunda es que me preste ropa.
 
 431
-00:20:13,000 --> 00:20:13,800
+00:20:13,000 --> 00:20:14,256
 ¿Y el tercero?
 
 432
-00:20:14,280 --> 00:20:15,320
+00:20:14,280 --> 00:20:16,320
 Comí tu comida.
 
 433
-00:20:18,840 --> 00:20:19,880
+00:20:18,840 --> 00:20:20,016
 Pero antes de que tuviera suficiente para comer,
 
 434
-00:20:20,040 --> 00:20:21,080
+00:20:20,040 --> 00:20:21,456
 Me golpearon.
 
 435
-00:20:21,480 --> 00:20:22,680
+00:20:21,480 --> 00:20:23,056
 ¡Entonces sigue frotándolo!
 
 436
-00:20:23,080 --> 00:20:24,280
+00:20:23,080 --> 00:20:24,416
 ¿Puedo comprarte toda la cena?
 
 437
-00:20:24,440 --> 00:20:25,320
+00:20:24,440 --> 00:20:25,936
 Ni siquiera hemos comido todavía.
 
 438
-00:20:25,960 --> 00:20:26,840
+00:20:25,960 --> 00:20:26,976
 Entonces nos frotaremos.
 
 439
-00:20:27,000 --> 00:20:28,200
+00:20:27,000 --> 00:20:29,200
 Bien, hermano Zhongfu, por aquí.
 
 440
-00:20:52,360 --> 00:20:54,440
+00:20:52,360 --> 00:20:55,440
 Zhongfu, ¿qué hora es ya, todavía no te vas a dormir?
 
 441
-00:20:56,360 --> 00:20:57,640
+00:20:56,360 --> 00:20:58,176
 ¿Qué vale la pena ver afuera?
 
 442
-00:20:58,200 --> 00:21:00,280
+00:20:58,200 --> 00:21:01,280
 El barco pasó por Shandong.
 
 443
-00:21:01,960 --> 00:21:03,400
+00:21:01,960 --> 00:21:04,400
 Siento aprensión cuando me acerco a casa.
 
 444
-00:21:04,760 --> 00:21:06,360
+00:21:04,760 --> 00:21:06,816
 El barco pasó por Shandong.
 
 445
-00:21:06,840 --> 00:21:10,040
+00:21:06,840 --> 00:21:11,040
 Hay ira en mi corazón. Quiero regañar a alguien.
 
 446
-00:21:11,480 --> 00:21:12,840
+00:21:11,480 --> 00:21:13,840
 Quiero regañar a Yuan Shikai.
 
 447
-00:21:16,600 --> 00:21:18,280
+00:21:16,600 --> 00:21:19,280
 También quiero regañar a este Yuan Datou (=moneda de plata grabada con la gran cabeza de Yuan).
 
 448
-00:21:19,960 --> 00:21:21,400
+00:21:19,960 --> 00:21:21,936
 no sé lo que está pensando,
 
 449
-00:21:21,960 --> 00:21:23,800
+00:21:21,960 --> 00:21:24,496
 se atrevió a dar Qingdao a Japón.
 
 450
-00:21:24,520 --> 00:21:26,520
+00:21:24,520 --> 00:21:27,520
 Usted dice, ¿este tipo tomó el medicamento equivocado?
 
 451
-00:21:29,640 --> 00:21:31,480
+00:21:29,640 --> 00:21:32,096
 Yuan Shikai no tomó la medicina equivocada.
 
 452
-00:21:32,120 --> 00:21:33,560
+00:21:32,120 --> 00:21:34,336
 es nuestro pais
 
 453
-00:21:34,360 --> 00:21:35,480
+00:21:34,360 --> 00:21:36,480
 eso ya es incurable.
 
 454
-00:21:37,160 --> 00:21:37,720
+00:21:37,160 --> 00:21:38,416
 ¿Por qué dices eso?
 
 455
-00:21:38,440 --> 00:21:39,160
+00:21:38,440 --> 00:21:39,696
 Piénsalo.
 
 456
-00:21:39,720 --> 00:21:42,120
+00:21:39,720 --> 00:21:42,496
 Desde que Lin Zexu prohibió el opio en la era Daoguang,
 
 457
-00:21:42,520 --> 00:21:44,280
+00:21:42,520 --> 00:21:45,280
 Han pasado setenta y cinco años.
 
 458
-00:21:45,320 --> 00:21:46,600
+00:21:45,320 --> 00:21:46,656
 En medio de esto, ¿cuántas personas
 
 459
-00:21:46,680 --> 00:21:47,800
+00:21:46,680 --> 00:21:47,936
 pensado en diferentes maneras
 
 460
-00:21:47,960 --> 00:21:49,720
+00:21:47,960 --> 00:21:50,416
 pero aún así no pudo salvar a la Gran Dinastía Qing.
 
 461
-00:21:50,440 --> 00:21:53,480
+00:21:50,440 --> 00:21:53,856
 Sun Yat-sen introdujo la República desde Occidente,
 
 462
-00:21:53,880 --> 00:21:55,560
+00:21:53,880 --> 00:21:55,616
 la gente del país pensó que esto
 
 463
-00:21:55,640 --> 00:21:57,080
+00:21:55,640 --> 00:21:57,616
 era un remedio para salvar la patria y enriquecer al pueblo.
 
 464
-00:21:57,640 --> 00:22:00,360
+00:21:57,640 --> 00:22:00,896
 Quien lo hubiera dicho, la republica funciona en otros paises
 
 465
-00:22:00,920 --> 00:22:02,520
+00:22:00,920 --> 00:22:03,296
 pero dentro de China ya no funciona.
 
 466
-00:22:03,320 --> 00:22:04,760
+00:22:03,320 --> 00:22:05,760
 Después de tres o cuatro años de República,
 
 467
-00:22:05,960 --> 00:22:07,400
+00:22:05,960 --> 00:22:08,400
 el país no es tan bueno como solía ser.
 
 468
-00:22:08,440 --> 00:22:09,720
+00:22:08,440 --> 00:22:10,016
 Como no hay cura,
 
 469
-00:22:10,040 --> 00:22:11,560
+00:22:10,040 --> 00:22:11,856
 entonces no es mejor tomar el viejo camino.
 
 470
-00:22:11,880 --> 00:22:14,280
+00:22:11,880 --> 00:22:14,736
 Estos no son los pensamientos de sólo una o dos personas.
 
 471
-00:22:14,760 --> 00:22:15,320
+00:22:14,760 --> 00:22:15,776
 Baisha.
 
 472
-00:22:15,800 --> 00:22:16,520
+00:22:15,800 --> 00:22:16,976
 ¿no es así?
 
 473
-00:22:17,000 --> 00:22:20,840
+00:22:17,000 --> 00:22:21,296
 Dijiste que la pandilla de Liang Shiyi ahora está
 
 474
-00:22:21,320 --> 00:22:23,880
+00:22:21,320 --> 00:22:24,880
 saltando arriba y abajo en tándem por todas partes,
 
 475
-00:22:25,320 --> 00:22:27,320
+00:22:25,320 --> 00:22:27,776
 uniéndose al Maestro Yang Hu (=Teniente General de la República de China), Yan Jidao (=alias de Yan Fu)
 
 476
-00:22:27,800 --> 00:22:29,800
+00:22:27,800 --> 00:22:30,800
 también sirviendo a su maestro tigre para hacer una escena.
 
 477
-00:22:31,480 --> 00:22:32,600
+00:22:31,480 --> 00:22:33,600
 Irrazonable.
 
 478
-00:22:34,920 --> 00:22:36,680
+00:22:34,920 --> 00:22:37,536
 Yang Du, Yan Fu.
 
 479
-00:22:37,560 --> 00:22:39,960
+00:22:37,560 --> 00:22:40,896
 Son los más sabios los que pueden tener un lapso momentáneo de juicio,
 
 480
-00:22:40,920 --> 00:22:42,760
+00:22:40,920 --> 00:22:43,056
 mientras que el grupo Liang Shiyi
 
 481
-00:22:43,080 --> 00:22:45,720
+00:22:43,080 --> 00:22:46,496
 son hooligans políticos sin base moral.
 
 482
-00:22:46,520 --> 00:22:47,800
+00:22:46,520 --> 00:22:47,936
 les inventé un nombre
 
 483
-00:22:47,960 --> 00:22:49,160
+00:22:47,960 --> 00:22:50,160
 llamado Li Yilian.
 (lit. decoro, rectitud, honestidad)
 
 484
-00:22:50,840 --> 00:22:53,160
+00:22:50,840 --> 00:22:54,160
 Li Yilian, ¿qué significa esto?
 
 485
-00:22:54,680 --> 00:22:57,480
+00:22:54,680 --> 00:22:58,480
 ¡Li Yilian, es descarado!
 (lit. decoro, rectitud, honestidad y sentido de la vergüenza; famoso modismo chino)
 
 486
-00:22:59,080 --> 00:23:01,640
+00:22:59,080 --> 00:23:02,576
 ¡Extremadamente desvergonzado! ¡El más desvergonzado de todos!
 
 487
-00:23:02,600 --> 00:23:04,840
+00:23:02,600 --> 00:23:05,840
 ¡Bien! ¡Qué buena Li Yilian!
 
 488
-00:23:07,560 --> 00:23:10,600
+00:23:07,560 --> 00:23:11,600
 ¡Zhongfu, tu forma de pensar es claramente inusual!
 
 489
-00:23:14,280 --> 00:23:16,760
+00:23:14,280 --> 00:23:17,760
 Baisha, estoy avergonzado.
 
 490
-00:23:17,880 --> 00:23:19,000
+00:23:17,880 --> 00:23:19,456
 Durante más de diez años,
 
 491
-00:23:19,480 --> 00:23:21,640
+00:23:19,480 --> 00:23:22,096
 Yo, Chen Duxiu, primero aprendí Kang Liang,
 
 492
-00:23:22,120 --> 00:23:23,320
+00:23:22,120 --> 00:23:24,016
 seguido por [Sol] Yat-sen,
 
 493
-00:23:24,040 --> 00:23:25,240
+00:23:24,040 --> 00:23:25,616
 comprometido con la revolución política,
 
 494
-00:23:25,640 --> 00:23:27,640
+00:23:25,640 --> 00:23:28,176
 corriendo de un lado a otro escapando de la muerte muchas veces.
 
 495
-00:23:28,200 --> 00:23:29,880
+00:23:28,200 --> 00:23:30,176
 Ir a Japón solo cinco veces.
 
 496
-00:23:30,200 --> 00:23:31,160
+00:23:30,200 --> 00:23:31,376
 Como resultado,
 
 497
-00:23:31,400 --> 00:23:32,920
+00:23:31,400 --> 00:23:33,536
 todavía no se logra nada verdad?
 
 498
-00:23:33,560 --> 00:23:35,000
+00:23:33,560 --> 00:23:35,216
 los asuntos de China,
 
 499
-00:23:35,240 --> 00:23:36,520
+00:23:35,240 --> 00:23:37,056
 apoyándose en la revolución política,
 
 500
-00:23:37,080 --> 00:23:38,840
+00:23:37,080 --> 00:23:39,376
 no resuelve el problema fundamental.
 
 501
-00:23:39,400 --> 00:23:42,440
+00:23:39,400 --> 00:23:43,440
 Para llegar al fondo de esto, debemos cambiar nuestra forma de pensar.
 
 502
-00:23:43,640 --> 00:23:44,920
+00:23:43,640 --> 00:23:45,296
 ¿Tienes alguna idea nueva?
 
 503
-00:23:45,320 --> 00:23:46,440
+00:23:45,320 --> 00:23:46,816
 No me atrevo a decir mis nuevas ideas.
 
 504
-00:23:46,840 --> 00:23:47,880
+00:23:46,840 --> 00:23:48,880
 A mi regreso esta vez,
 
 505
-00:23:48,920 --> 00:23:49,880
+00:23:48,920 --> 00:23:50,880
 Ya he tomado una decisión.
 
 506
-00:23:51,240 --> 00:23:53,080
+00:23:51,240 --> 00:23:54,016
 Durante veinte años, no voy a tocar la política.
 
 507
-00:23:54,040 --> 00:23:55,720
+00:23:54,040 --> 00:23:56,176
 Si no vas a tocar la política, ¿entonces qué quieres hacer?
 
 508
-00:23:56,200 --> 00:24:00,040
+00:23:56,200 --> 00:24:00,816
 Ser renacido. Cambiar el cuerpo, cambiar la mente.
 
 509
-00:24:00,840 --> 00:24:01,720
+00:24:00,840 --> 00:24:02,720
 Ya no es temprano.
 
 510
-00:24:03,080 --> 00:24:04,120
+00:24:03,080 --> 00:24:05,120
 Date prisa y vete a dormir.
 
 511
-00:24:06,440 --> 00:24:07,960
+00:24:06,440 --> 00:24:08,960
 Zhongfu, ¿qué hora es ya?
 
 512
-00:24:09,000 --> 00:24:09,800
+00:24:09,000 --> 00:24:10,256
 ¿Por qué sigues sentado ahí?
 
 513
-00:24:10,280 --> 00:24:11,080
+00:24:10,280 --> 00:24:11,136
 Está tan oscuro ahí fuera,
 
 514
-00:24:11,160 --> 00:24:11,960
+00:24:11,160 --> 00:24:12,416
 no puedes ver nada en absoluto.
 
 515
-00:24:12,440 --> 00:24:14,040
+00:24:12,440 --> 00:24:15,040
 Dormir. Apaga las luces, ¿de acuerdo?
 
 516
-00:24:23,080 --> 00:24:23,960
+00:24:23,080 --> 00:24:24,960
 veo
 
 517
@@ -2070,248 +2070,248 @@ Nosotros estudiantes,
 
 518
 00:24:26,600 --> 00:24:32,975
-[Dormitorio de la Universidad de Waseda]
+{\an8}[Dormitorio de la Universidad de Waseda]
 
 519
-00:24:28,040 --> 00:24:31,240
+00:24:28,040 --> 00:24:31,856
 especialmente entre el pueblo, debe asumir grandes responsabilidades.
 
 520
-00:24:31,880 --> 00:24:34,120
+00:24:31,880 --> 00:24:34,416
 Aquellos que estudian académicos espirituales.
 
 521
-00:24:34,440 --> 00:24:37,400
+00:24:34,440 --> 00:24:37,456
 debe producir bella literatura
 
 522
-00:24:37,480 --> 00:24:39,400
+00:24:37,480 --> 00:24:39,776
 y pensamiento noble
 
 523
-00:24:39,800 --> 00:24:42,360
+00:24:39,800 --> 00:24:43,360
 contribuir al desarrollo espiritual de nuestra nación.
 
 524
-00:24:43,720 --> 00:24:45,960
+00:24:43,720 --> 00:24:46,416
 Los que estudian material académico.
 
 525
-00:24:46,440 --> 00:24:49,400
+00:24:46,440 --> 00:24:49,776
 debe prestar mucha atención a su pensamiento profundo
 
 526
-00:24:49,800 --> 00:24:51,640
+00:24:49,800 --> 00:24:52,016
 y aplicarlos exquisitamente
 
 527
-00:24:52,040 --> 00:24:55,080
+00:24:52,040 --> 00:24:56,080
 buscar el desarrollo de la tecnología e instrumentos militares de nuestro país.
 
 528
-00:24:56,200 --> 00:24:59,400
+00:24:56,200 --> 00:24:59,776
 El espíritu de sinceridad es omnipotente,
 
 529
-00:24:59,800 --> 00:25:02,680
+00:24:59,800 --> 00:25:03,136
 y si se lleva a cabo con sinceridad y perseverancia.
 
 530
-00:25:03,160 --> 00:25:05,480
+00:25:03,160 --> 00:25:06,480
 uno tendrá una gran carrera funcional.
 
 531
-00:25:06,600 --> 00:25:09,640
+00:25:06,600 --> 00:25:09,856
 Basado en la ignorancia de la conciencia,
 
 532
-00:25:09,880 --> 00:25:12,040
+00:25:09,880 --> 00:25:12,176
 Cao Mo vengará la vergüenza
 (cf. leyenda del general Cao Mo robando al duque Huan de Qi)
 
 533
-00:25:12,200 --> 00:25:13,960
+00:25:12,200 --> 00:25:14,176
 y Goujian se vengará,
 (cf. La venganza del rey Goujian de Yue sobre el estado de Wu)
 
 534
-00:25:14,200 --> 00:25:15,640
+00:25:14,200 --> 00:25:16,336
 Cuando llegue el momento.
 
 535
-00:25:16,360 --> 00:25:18,840
+00:25:16,360 --> 00:25:19,216
 Hermano Fengzai, digo, eres realmente capaz.
 
 536
-00:25:19,240 --> 00:25:20,760
+00:25:19,240 --> 00:25:21,056
 Las cosas están tan bien preparadas!
 
 537
-00:25:21,080 --> 00:25:22,520
+00:25:21,080 --> 00:25:22,656
 ¡Este juego de mahjong, realmente me encanta jugar!
 
 538
-00:25:22,680 --> 00:25:23,560
+00:25:22,680 --> 00:25:24,560
 ¡También me encanta jugar!
 
 539
-00:25:24,600 --> 00:25:27,480
+00:25:24,600 --> 00:25:27,776
 Hermano Fengzai, eres verdaderamente sabio y brillante.
 
 540
-00:25:27,800 --> 00:25:30,360
+00:25:27,800 --> 00:25:31,136
 Inesperadamente conseguiste para todos billetes de barco para un camarote de segunda clase.
 
 541
-00:25:31,160 --> 00:25:32,200
+00:25:31,160 --> 00:25:32,256
 En la cabina de cuarta clase, nosotros
 
 542
-00:25:32,280 --> 00:25:33,240
+00:25:32,280 --> 00:25:33,376
 reían junto con los pobres.
 
 543
-00:25:33,400 --> 00:25:35,400
+00:25:33,400 --> 00:25:35,696
 ¡Eso fue tan aburrido!
 
 544
-00:25:35,720 --> 00:25:37,080
+00:25:35,720 --> 00:25:37,296
 ¡Correcto! ¡Muy aburrido!
 
 545
-00:25:37,320 --> 00:25:38,440
+00:25:37,320 --> 00:25:39,216
 Todo esto no significa mucho.
 
 546
-00:25:39,240 --> 00:25:40,200
+00:25:39,240 --> 00:25:40,656
 Mi segundo tío dijo
 
 547
-00:25:40,680 --> 00:25:42,040
+00:25:40,680 --> 00:25:42,576
 Yuan Shikai quiere convertirse en emperador.
 
 548
-00:25:42,600 --> 00:25:43,960
+00:25:42,600 --> 00:25:44,416
 Es solo el jefe de asuntos de palacio.
 
 549
-00:25:44,440 --> 00:25:46,600
+00:25:44,440 --> 00:25:46,896
 Cuando regreses a casa, ayúdanos a hacer más publicidad.
 
 550
-00:25:46,920 --> 00:25:48,120
+00:25:46,920 --> 00:25:48,336
 En el futuro, seguramente no trataré a todos injustamente.
 
 551
-00:25:48,360 --> 00:25:49,800
+00:25:48,360 --> 00:25:50,336
 ¡No hay problema!
 
 552
-00:25:50,360 --> 00:25:50,600
+00:25:50,360 --> 00:25:50,816
 Xifeng.
 
 553
-00:25:50,840 --> 00:25:51,640
+00:25:50,840 --> 00:25:52,336
 Digo, hermano Fengzai.
 
 554
-00:25:52,360 --> 00:25:53,800
+00:25:52,360 --> 00:25:53,936
 Por el bien de Yuan Shikai,
 
 555
-00:25:53,960 --> 00:25:55,640
+00:25:53,960 --> 00:25:56,176
 ni siquiera queremos ir a estudiar al extranjero.
 
 556
-00:25:56,200 --> 00:25:58,760
+00:25:56,200 --> 00:25:59,760
 Tienes que contárselo al Segundo Tío, ¿verdad?
 
 557
-00:26:00,680 --> 00:26:01,400
+00:26:00,680 --> 00:26:01,936
 Yo digo,
 
 558
-00:26:01,960 --> 00:26:03,720
+00:26:01,960 --> 00:26:04,096
 todos ustedes tienen esta duda?
 
 559
-00:26:04,120 --> 00:26:04,840
+00:26:04,120 --> 00:26:05,840
 ¡Por supuesto!
 
 560
-00:26:06,360 --> 00:26:07,080
+00:26:06,360 --> 00:26:08,016
 ¡Okey!
 
 561
-00:26:08,040 --> 00:26:09,400
+00:26:08,040 --> 00:26:10,400
 Entonces déjenme ayudarlos a todos a disipar estas dudas.
 
 562
-00:26:10,520 --> 00:26:11,320
+00:26:10,520 --> 00:26:12,320
 Mi segundo tío dice,
 
 563
-00:26:12,680 --> 00:26:13,800
+00:26:12,680 --> 00:26:14,496
 mientras se haga el trabajo,
 
 564
-00:26:14,520 --> 00:26:16,040
+00:26:14,520 --> 00:26:16,816
 todos podemos ir a estudiar a Beida (=Universidad de Pekín).
 
 565
-00:26:16,840 --> 00:26:17,320
+00:26:16,840 --> 00:26:17,376
 ¿Hablas en serio?
 
 566
-00:26:17,400 --> 00:26:19,320
+00:26:17,400 --> 00:26:19,616
 Entonces tendremos perspectivas ilimitadas.
 
 567
-00:26:19,640 --> 00:26:21,160
+00:26:19,640 --> 00:26:21,376
 ¡Esto es genial! Beida!
 
 568
-00:26:21,400 --> 00:26:23,240
+00:26:21,400 --> 00:26:24,240
 ¡Estaba esperando esta frase tuya!
 
 569
-00:26:52,200 --> 00:26:52,840
+00:26:52,200 --> 00:26:53,536
 ¡Zhongfu!
 
 570
-00:26:53,560 --> 00:26:54,120
+00:26:53,560 --> 00:26:54,176
 Alguien te abrió paso
 
 571
-00:26:54,200 --> 00:26:55,240
+00:26:54,200 --> 00:26:55,936
 ¿Por qué no los reconociste?
 
 572
-00:26:55,960 --> 00:26:57,320
+00:26:55,960 --> 00:26:57,536
 Esto no es razonable.
 
 573
-00:26:57,560 --> 00:26:58,760
+00:26:57,560 --> 00:26:59,760
 ¿Quién es esta persona?
 
 574
-00:27:00,840 --> 00:27:03,160
+00:27:00,840 --> 00:27:03,216
 Es un famoso veterano de la Liga Unida de China.
 
 575
-00:27:03,240 --> 00:27:06,040
+00:27:03,240 --> 00:27:06,336
 General Zou Yongcheng, comandante del Tercer Ejército de las fuerzas de la coalición Hunan-Henan.
 
 576
-00:27:06,360 --> 00:27:07,400
+00:27:06,360 --> 00:27:07,856
 Tienes que darle una disculpa.
 
 577
-00:27:07,880 --> 00:27:10,360
+00:27:07,880 --> 00:27:10,656
 Siempre he estado desinteresado en los burócratas.
 
 578
-00:27:10,680 --> 00:27:11,640
+00:27:10,680 --> 00:27:12,640
 ¡Mírate!
 
 579
@@ -2320,274 +2320,274 @@ Saludos Sr. Yi Baisha.
 
 580
 00:27:18,600 --> 00:27:20,982
-[Zou Yongcheng, llamado Qizhi, miembro de la Liga Unida de China]
+{\an8}[Zou Yongcheng, llamado Qizhi, miembro de la Liga Unida de China]
 
 581
-00:27:19,640 --> 00:27:20,120
+00:27:19,640 --> 00:27:20,256
 Saludos General Zou.
 
 582
-00:27:20,280 --> 00:27:21,080
+00:27:20,280 --> 00:27:22,080
 Sr. Zhongfu
 
 583
-00:27:23,000 --> 00:27:24,360
+00:27:23,000 --> 00:27:24,656
 El general Zou no es un oficial ordinario.
 
 584
-00:27:24,680 --> 00:27:26,360
+00:27:24,680 --> 00:27:26,896
 En el segundo año de la República, Song Jiaoren fue asesinado.
 
 585
-00:27:26,920 --> 00:27:29,320
+00:27:26,920 --> 00:27:29,536
 El general Zou sintió profundamente que la República se desmoronaría.
 
 586
-00:27:29,560 --> 00:27:30,760
+00:27:29,560 --> 00:27:31,136
 Dejó un poema suicida,
 
 587
-00:27:31,160 --> 00:27:33,000
+00:27:31,160 --> 00:27:33,536
 saltó al río Huangpu con ira e intentó suicidarse.
 
 588
-00:27:33,560 --> 00:27:35,000
+00:27:33,560 --> 00:27:35,456
 "Después de más de diez años de revolución,
 
 589
-00:27:35,480 --> 00:27:36,920
+00:27:35,480 --> 00:27:37,136
 Hu Lu (=Xiongnu, también conocido como gobernante manchú de Qing) fue expulsado de su látigo ancestral.
 
 590
-00:27:37,160 --> 00:27:38,520
+00:27:37,160 --> 00:27:39,056
 Solo para descubrir que el mono (=Yuan) dio un salto mortal,
 
 591
-00:27:39,080 --> 00:27:40,680
+00:27:39,080 --> 00:27:40,976
 la República se convirtió en un sueño y yo regresé al Cielo".
 
 592
-00:27:41,000 --> 00:27:42,200
+00:27:41,000 --> 00:27:42,576
 ¡Qué noble y majestuoso!
 
 593
-00:27:42,600 --> 00:27:44,440
+00:27:42,600 --> 00:27:45,440
 En realidad no, mi humilde yo es un hombre sencillo.
 
 594
-00:27:46,520 --> 00:27:48,280
+00:27:46,520 --> 00:27:49,280
 Saltar al río Huangpu para suicidarse.
 
 595
-00:27:49,720 --> 00:27:50,440
+00:27:49,720 --> 00:27:51,440
 ¿Solo un intento?
 
 596
-00:27:53,320 --> 00:27:54,440
+00:27:53,320 --> 00:27:54,736
 De hecho, fue un intento.
 
 597
-00:27:54,760 --> 00:27:56,120
+00:27:54,760 --> 00:27:57,120
 Afortunadamente rescatado por los pescadores.
 
 598
-00:27:57,640 --> 00:27:58,360
+00:27:57,640 --> 00:27:59,056
 Si es así,
 
 599
-00:27:59,080 --> 00:28:01,000
+00:27:59,080 --> 00:28:01,216
 De hecho, creo que eres un tonto.
 
 600
-00:28:01,240 --> 00:28:03,320
+00:28:01,240 --> 00:28:04,320
 ¿Cómo puede un revolucionario suicidarse tan fácilmente?
 
 601
-00:28:04,360 --> 00:28:05,560
+00:28:04,360 --> 00:28:06,256
 Yo, Chen Duxiu, en esta vida,
 
 602
-00:28:06,280 --> 00:28:09,320
+00:28:06,280 --> 00:28:10,320
 Jamás haría una estupidez para suicidarme por la revolución.
 
 603
-00:28:11,000 --> 00:28:11,880
+00:28:11,000 --> 00:28:12,880
 ¡Zhongfu!
 
 604
-00:28:15,720 --> 00:28:17,000
+00:28:15,720 --> 00:28:17,376
 General Zou, me disculpo.
 
 605
-00:28:17,400 --> 00:28:18,280
+00:28:17,400 --> 00:28:19,280
 Esta bien.
 
 606
-00:28:20,440 --> 00:28:21,142
+00:28:20,440 --> 00:28:21,862
 ¡Zhongfu!
 
 607
-00:28:21,886 --> 00:28:22,825
+00:28:21,886 --> 00:28:23,825
 ¡Zhongfu!
 
 608
-00:28:23,960 --> 00:28:24,840
+00:28:23,960 --> 00:28:25,616
 Fuiste demasiado autoritario.
 
 609
-00:28:25,640 --> 00:28:26,680
+00:28:25,640 --> 00:28:26,976
 Ser despiadado no te convierte en un verdadero héroe.
 
 610
-00:28:27,000 --> 00:28:27,400
+00:28:27,000 --> 00:28:27,456
 Tal vez algun dia,
 
 611
-00:28:27,480 --> 00:28:28,440
+00:28:27,480 --> 00:28:28,496
 También seré como Qu Yuan,
 
 612
-00:28:28,520 --> 00:28:29,320
+00:28:28,520 --> 00:28:29,776
 tirarse a un río para suicidarse.
 
 613
-00:28:29,800 --> 00:28:31,080
+00:28:29,800 --> 00:28:32,080
 En ese momento, ¿también vendrás a ridiculizarme?
 
 614
-00:28:36,760 --> 00:28:37,560
+00:28:36,760 --> 00:28:38,560
 Lo siento, Baisha.
 
 615
-00:28:38,840 --> 00:28:40,840
+00:28:38,840 --> 00:28:41,840
 No estoy de buen humor, olvidé mis modales.
 
 616
-00:28:42,920 --> 00:28:43,720
+00:28:42,920 --> 00:28:44,720
 Perdóname.
 
 617
-00:28:52,600 --> 00:28:53,880
+00:28:52,600 --> 00:28:54,880
 Junman está tosiendo sangre.
 
 618
-00:28:55,240 --> 00:28:57,000
+00:28:55,240 --> 00:28:57,456
 A una edad temprana, puede contraer tuberculosis.
 
 619
-00:28:57,480 --> 00:28:59,000
+00:28:57,480 --> 00:28:59,296
 Yannian, Qiaonian, esos dos hijos no filiales
 
 620
-00:28:59,320 --> 00:29:00,360
+00:28:59,320 --> 00:29:01,136
 no estaban en casa cuidando a su madre
 
 621
-00:29:01,160 --> 00:29:03,080
+00:29:01,160 --> 00:29:03,376
 y recientemente corrió a Shanghai.
 
 622
-00:29:03,400 --> 00:29:06,200
+00:29:03,400 --> 00:29:06,256
 Lástima de ella, es a la vez tía y madrastra,
 
 623
-00:29:06,280 --> 00:29:07,480
+00:29:06,280 --> 00:29:08,416
 enfermo y sin dinero,
 
 624
-00:29:08,440 --> 00:29:09,480
+00:29:08,440 --> 00:29:10,096
 en una familia con cinco a seis bocas.
 
 625
-00:29:10,120 --> 00:29:11,000
+00:29:10,120 --> 00:29:12,000
 realmente no lo sé
 
 626
-00:29:12,200 --> 00:29:13,960
+00:29:12,200 --> 00:29:14,736
 cómo sobreviven.
 
 627
-00:29:14,760 --> 00:29:17,560
+00:29:14,760 --> 00:29:17,696
 Tú... Esta forma de gestionar la familia es cuestionable.
 
 628
-00:29:17,720 --> 00:29:18,680
+00:29:17,720 --> 00:29:18,736
 Te escuché insistir en no dar
 
 629
-00:29:18,760 --> 00:29:20,200
+00:29:18,760 --> 00:29:20,736
 gastos de subsistencia a los dos hermanos Yannian y Qiaonian.
 
 630
-00:29:20,760 --> 00:29:21,560
+00:29:20,760 --> 00:29:21,776
 Pero dejarlos trabajar mientras estudian,
 
 631
-00:29:21,800 --> 00:29:22,680
+00:29:21,800 --> 00:29:23,376
 brindándose a sí mismos,
 
 632
-00:29:23,400 --> 00:29:24,360
+00:29:23,400 --> 00:29:24,736
 A una edad temprana.
 
 633
-00:29:24,760 --> 00:29:25,880
+00:29:24,760 --> 00:29:26,880
 ¿Quién puede soportar este tipo de sufrimiento?
 
 634
-00:29:27,960 --> 00:29:29,560
+00:29:27,960 --> 00:29:30,560
 ¿Por qué no pueden soportar este tipo de sufrimiento?
 
 635
-00:29:31,880 --> 00:29:33,240
+00:29:31,880 --> 00:29:33,936
 Si tuviera dinero, todavía no lo daría.
 
 636
-00:29:33,960 --> 00:29:35,720
+00:29:33,960 --> 00:29:36,720
 Además, no tengo dinero.
 
 637
 00:29:39,329 --> 00:29:44,192
-[Estación de manejo de concesiones francesas de Shanghai]
+{\an8}[Estación de manejo de concesiones francesas de Shanghai]
 
 638
-00:29:41,320 --> 00:29:42,040
+00:29:41,320 --> 00:29:42,336
 ¡Cuidado, hermano!
 
 639
-00:29:42,360 --> 00:29:42,744
+00:29:42,360 --> 00:29:43,744
 ¡Venir!
 
 640
-00:29:48,143 --> 00:29:52,865
-[Chen Yannian, hijo mayor de Chen Duxiu]
+00:29:48,143 --> 00:29:53,865
+{\an8}[Chen Yannian, hijo mayor de Chen Duxiu]
 
 641
-00:29:55,786 --> 00:29:57,026
-[Chen Qiaonian, segundo hijo de Chen Duxiu]
+00:29:55,786 --> 00:29:58,026
+{\an8}[Chen Qiaonian, segundo hijo de Chen Duxiu]
 
 642
-00:30:02,440 --> 00:30:02,806
+00:30:02,440 --> 00:30:03,806
 ¡Venir!
 
 643
-00:30:04,120 --> 00:30:04,600
+00:30:04,120 --> 00:30:05,600
 ¡Aquí!
 
 644
-00:30:06,120 --> 00:30:10,680
+00:30:06,120 --> 00:30:11,136
 ¡Hombres sombríos, cantemos una melodía! ¡Hola!
 
 645
-00:30:11,160 --> 00:30:15,480
+00:30:11,160 --> 00:30:16,176
 ¡Mujeres lúgubres, venid a lloriquear! ¡Hola!
 
 646
-00:30:16,200 --> 00:30:18,520
+00:30:16,200 --> 00:30:19,520
 Si hay algún problema, ¡entonces canta!
 
 647
-00:30:30,600 --> 00:30:31,917
+00:30:30,600 --> 00:30:32,576
 ¡Vieja cosa!
 
 648
@@ -2595,1039 +2595,1039 @@ Si hay algún problema, ¡entonces canta!
 ¡Esta cosa vieja!
 
 649
-00:30:33,320 --> 00:30:34,760
+00:30:33,320 --> 00:30:34,976
 Ni siquiera puedes llevar una bolsa, ¿todavía quieres llevar dos?
 
 650
-00:30:35,000 --> 00:30:35,880
+00:30:35,000 --> 00:30:36,096
 ¡Derramar frijoles por todo el suelo!
 
 651
-00:30:36,120 --> 00:30:37,000
+00:30:36,120 --> 00:30:37,216
 ¡Ocioso!
 
 652
-00:30:37,240 --> 00:30:38,840
+00:30:37,240 --> 00:30:39,456
 Si puedes entonces hazlo. ¡Si no puedes, vete de aquí!
 
 653
-00:30:39,480 --> 00:30:41,240
+00:30:39,480 --> 00:30:41,456
 ¡Te golpearé hasta la muerte! Deja que seas un ocioso
 
 654
-00:30:41,480 --> 00:30:42,600
+00:30:41,480 --> 00:30:43,600
 ¡Déjate ser un holgazán! Dejas...
 
 655
-00:30:43,800 --> 00:30:44,440
+00:30:43,800 --> 00:30:44,496
 ¿Sigues golpeando?
 
 656
-00:30:44,520 --> 00:30:45,080
+00:30:44,520 --> 00:30:45,136
 ¡Qué estás haciendo!
 
 657
-00:30:45,160 --> 00:30:45,400
+00:30:45,160 --> 00:30:45,536
 ¡No te muevas!
 
 658
-00:30:45,560 --> 00:30:46,680
+00:30:45,560 --> 00:30:46,896
 ¡No te muevas! ¡Qué estás haciendo!
 
 659
-00:30:46,920 --> 00:30:47,640
+00:30:46,920 --> 00:30:47,856
 ¡Qué quieres!
 
 660
-00:30:47,880 --> 00:30:48,520
+00:30:47,880 --> 00:30:48,896
 ¿Por qué razón golpeas a alguien?
 
 661
-00:30:48,920 --> 00:30:49,320
+00:30:48,920 --> 00:30:49,616
 ¿Estás bien?
 
 662
-00:30:49,640 --> 00:30:50,200
+00:30:49,640 --> 00:30:50,576
 Por qué razón...
 
 663
-00:30:50,600 --> 00:30:51,800
+00:30:50,600 --> 00:30:52,656
 ¡Porque yo estoy a cargo aquí!
 
 664
-00:30:52,680 --> 00:30:54,120
+00:30:52,680 --> 00:30:54,656
 ¡Oye! ¿Cómo es que eres tú otra vez?
 
 665
-00:30:54,680 --> 00:30:55,800
+00:30:54,680 --> 00:30:56,176
 ¿Querías recibir los azotes por él?
 
 666
-00:30:56,200 --> 00:30:56,840
+00:30:56,200 --> 00:30:57,056
 ¡Fuera de aquí por mí!
 
 667
-00:30:57,080 --> 00:30:57,880
+00:30:57,080 --> 00:30:58,016
 Su pierna ya tenía una lesión.
 
 668
-00:30:58,040 --> 00:30:58,920
+00:30:58,040 --> 00:30:59,056
 ¿Qué pasa si las cosas caen al suelo?
 
 669
-00:30:59,080 --> 00:30:59,960
+00:30:59,080 --> 00:31:00,256
 ¿No está bien si se recoge?
 
 670
-00:31:00,280 --> 00:31:01,480
+00:31:00,280 --> 00:31:01,776
 ¡Qué carajo tiene que ver su lesión conmigo!
 
 671
-00:31:01,800 --> 00:31:03,160
+00:31:01,800 --> 00:31:03,216
 ¡Tienes que asumir la responsabilidad de retrasar los negocios!
 
 672
-00:31:03,240 --> 00:31:04,120
+00:31:03,240 --> 00:31:05,056
 ¡Pero todavía no puedes vencer a alguien!
 
 673
-00:31:05,080 --> 00:31:07,000
+00:31:05,080 --> 00:31:07,136
 Lo acabo de hacer. ¿Y qué?
 
 674
-00:31:07,160 --> 00:31:08,280
+00:31:07,160 --> 00:31:09,280
 Lo creas o no, los venceré a los dos juntos.
 
 675
-00:31:10,680 --> 00:31:11,080
+00:31:10,680 --> 00:31:11,376
 ¿Qué estás haciendo?
 
 676
-00:31:11,400 --> 00:31:11,960
+00:31:11,400 --> 00:31:12,816
 ¿Qué estás haciendo?
 
 677
-00:31:12,840 --> 00:31:13,480
+00:31:12,840 --> 00:31:13,776
 ¡No golpees!
 
 678
-00:31:13,800 --> 00:31:14,360
+00:31:13,800 --> 00:31:14,576
 ¡No puedes pelear!
 
 679
-00:31:14,600 --> 00:31:15,276
+00:31:14,600 --> 00:31:15,462
 ¿Quieres rebelarte, es así?
 
 680
-00:31:15,486 --> 00:31:16,229
+00:31:15,486 --> 00:31:17,229
 ¿Quieres rebelarte, es así!
 
 681
-00:31:17,320 --> 00:31:18,440
+00:31:17,320 --> 00:31:19,376
 Eres un mocoso bastante justo, ¿eh?
 
 682
-00:31:19,400 --> 00:31:21,160
+00:31:19,400 --> 00:31:21,696
 Bien, hoy te dejaré manejar este primer problema.
 
 683
-00:31:21,720 --> 00:31:22,840
+00:31:21,720 --> 00:31:23,216
 La vida del viejo Jia, tú te encargas.
 
 684
-00:31:23,240 --> 00:31:24,200
+00:31:23,240 --> 00:31:24,336
 Todos ustedes no pueden involucrarse.
 
 685
-00:31:24,360 --> 00:31:25,320
+00:31:24,360 --> 00:31:25,696
 El que salga lo hará él mismo.
 
 686
-00:31:25,720 --> 00:31:26,040
+00:31:25,720 --> 00:31:26,896
 ¡Venir!
 
 687
-00:31:26,920 --> 00:31:27,400
+00:31:26,920 --> 00:31:27,696
 Lo haré.
 
 688
-00:31:27,720 --> 00:31:28,120
+00:31:27,720 --> 00:31:28,256
 Yo también.
 
 689
-00:31:28,280 --> 00:31:29,720
+00:31:28,280 --> 00:31:30,176
 ¡Cuenta conmigo!
 
 690
-00:31:30,200 --> 00:31:31,800
+00:31:30,200 --> 00:31:32,176
 Ya que ustedes dos se ofrecieron como voluntarios, ustedes dos lo hacen.
 
 691
-00:31:32,200 --> 00:31:32,600
+00:31:32,200 --> 00:31:33,216
 ¡Venir!
 
 692
-00:31:33,240 --> 00:31:33,960
+00:31:33,240 --> 00:31:34,960
 ¡No más tonterías!
 
 693
-00:31:35,320 --> 00:31:35,880
+00:31:35,320 --> 00:31:36,880
 ¡Venir!
 
 694
-00:31:37,800 --> 00:31:39,160
+00:31:37,800 --> 00:31:39,456
 ¿Quién es el siguiente? ¡Romperlo!
 
 695
-00:31:39,480 --> 00:31:40,840
+00:31:39,480 --> 00:31:40,896
 ¿Qué estás mirando todavía? ¡Dispersión!
 
 696
-00:31:40,920 --> 00:31:41,240
+00:31:40,920 --> 00:31:41,536
 Dale la vuelta a estos dos.
 
 697
-00:31:41,560 --> 00:31:42,280
+00:31:41,560 --> 00:31:42,416
 ¡No es nada, volved todos al trabajo!
 
 698
-00:31:42,440 --> 00:31:42,680
+00:31:42,440 --> 00:31:43,680
 Agarre aquí.
 
 699
-00:31:46,840 --> 00:31:47,320
+00:31:46,840 --> 00:31:48,320
 Bueno.
 
 700
-00:31:52,600 --> 00:31:53,080
+00:31:52,600 --> 00:31:54,019
 ¡Aquí!
 
 701
-00:31:54,043 --> 00:31:54,583
+00:31:54,043 --> 00:31:55,583
 Elevar
 
 702
-00:31:57,614 --> 00:31:58,257
+00:31:57,614 --> 00:31:59,257
 Elevar
 
 703
-00:32:02,120 --> 00:32:03,320
+00:32:02,120 --> 00:32:03,856
 Bien, bien. Ve a hacer tu trabajo.
 
 704
-00:32:03,880 --> 00:32:04,600
+00:32:03,880 --> 00:32:04,976
 ¡Para qué te distraes!
 
 705
-00:32:05,000 --> 00:32:05,960
+00:32:05,000 --> 00:32:06,256
 Recoge esos frijoles limpiamente para mí.
 
 706
-00:32:06,280 --> 00:32:07,480
+00:32:06,280 --> 00:32:08,256
 Si te pierdes aunque sea un grano, te mataré.
 
 707
-00:32:08,280 --> 00:32:08,840
+00:32:08,280 --> 00:32:09,136
 ¡Con rapidez!
 
 708
-00:32:09,160 --> 00:32:09,560
+00:32:09,160 --> 00:32:10,560
 ¡Apresúrate!
 
 709
-00:32:13,640 --> 00:32:13,960
+00:32:13,640 --> 00:32:14,496
 Hermano mayor.
 
 710
-00:32:14,520 --> 00:32:15,080
+00:32:14,520 --> 00:32:15,376
 No puedo aguantar más.
 
 711
-00:32:15,400 --> 00:32:16,520
+00:32:15,400 --> 00:32:16,736
 ¡Date prisa y déjalo! No te lastimes la cintura.
 
 712
-00:32:16,760 --> 00:32:18,520
+00:32:16,760 --> 00:32:19,520
 No es eso, se me rompió la cinturilla.
 
 713
-00:32:23,320 --> 00:32:23,960
+00:32:23,320 --> 00:32:24,656
 Bien entonces...
 
 714
-00:32:24,680 --> 00:32:25,400
+00:32:24,680 --> 00:32:26,400
 ¡Junta las piernas!
 
 715
-00:32:28,520 --> 00:32:29,320
+00:32:28,520 --> 00:32:30,320
 No te muevas, está bien.
 
 716
-00:32:30,440 --> 00:32:31,720
+00:32:30,440 --> 00:32:32,720
 ¿Para qué estás jugando? ¡Con rapidez!
 
 717
-00:32:33,480 --> 00:32:34,120
+00:32:33,480 --> 00:32:35,120
 Saca las piernas.
 
 718
-00:32:38,440 --> 00:32:39,160
+00:32:38,440 --> 00:32:40,160
 Ponte los zapatos.
 
 719
-00:32:40,520 --> 00:32:41,560
+00:32:40,520 --> 00:32:42,560
 Ni siquiera quieres ponerte los zapatos ahora, ¿eh?
 
 720
-00:32:55,640 --> 00:32:56,840
+00:32:55,640 --> 00:32:56,896
 ¡Déjalo ir! ¡Déjalo ir!
 
 721
-00:32:56,920 --> 00:32:57,720
+00:32:56,920 --> 00:32:57,936
 Suéltame.
 
 722
-00:32:57,960 --> 00:32:58,543
+00:32:57,960 --> 00:32:59,319
 ¿Que esta pasando?
 
 723
-00:32:59,343 --> 00:32:59,615
+00:32:59,343 --> 00:33:00,256
 ¿Que esta pasando?
 
 724
-00:33:00,280 --> 00:33:00,920
+00:33:00,280 --> 00:33:00,976
 ¡Suéltame!
 
 725
-00:33:01,000 --> 00:33:01,640
+00:33:01,000 --> 00:33:01,936
 ¡Ustedes no pueden ser así!
 
 726
-00:33:01,960 --> 00:33:03,480
+00:33:01,960 --> 00:33:03,856
 ¡Para ahora mismo! ¿Qué quieren hacer ustedes?
 
 727
-00:33:03,880 --> 00:33:05,320
+00:33:03,880 --> 00:33:05,376
 Déjalo ir. ¡Suéltame!
 
 728
-00:33:05,400 --> 00:33:06,200
+00:33:05,400 --> 00:33:06,256
 ¡Quítame las manos de encima!
 
 729
-00:33:06,280 --> 00:33:07,000
+00:33:06,280 --> 00:33:07,056
 ¡Que están haciendo, chicos!
 
 730
-00:33:07,080 --> 00:33:07,640
+00:33:07,080 --> 00:33:07,696
 ¡No puedes ser así!
 
 731
-00:33:07,720 --> 00:33:08,200
+00:33:07,720 --> 00:33:09,200
 ¡Suéltame!
 
 732
-00:33:09,880 --> 00:33:10,360
+00:33:09,880 --> 00:33:11,056
 Qué estás haciendo
 
 733
-00:33:11,080 --> 00:33:11,560
+00:33:11,080 --> 00:33:11,856
 ¡Suéltame!
 
 734
-00:33:11,880 --> 00:33:13,000
+00:33:11,880 --> 00:33:13,056
 ¡Están lastimando a alguien!
 
 735
-00:33:13,080 --> 00:33:14,120
+00:33:13,080 --> 00:33:15,120
 ¡Esa es una niña!
 
 736
-00:33:15,160 --> 00:33:15,880
+00:33:15,160 --> 00:33:16,880
 ¿Qué estás haciendo?
 
 737
-00:33:16,920 --> 00:33:17,960
+00:33:16,920 --> 00:33:18,960
 ¡Déjalo ir! ¡Déjalo ir!
 
 738
-00:33:21,960 --> 00:33:23,640
+00:33:21,960 --> 00:33:23,696
 ¡Manos fuera! ¡Quítate las manos de encima ahora mismo!
 
 739
-00:33:23,720 --> 00:33:25,320
+00:33:23,720 --> 00:33:25,376
 ¿Qué diablos está pasando ahí abajo?
 
 740
-00:33:25,400 --> 00:33:26,520
+00:33:25,400 --> 00:33:26,816
 ¡Tíralos por la borda a babor!
 
 741
-00:33:26,840 --> 00:33:27,480
+00:33:26,840 --> 00:33:28,480
 ¡Déjame ir!
 
 742
-00:33:34,120 --> 00:33:34,840
+00:33:34,120 --> 00:33:35,136
 Fuera del camino
 
 743
-00:33:35,160 --> 00:33:35,720
+00:33:35,160 --> 00:33:36,720
 deja de pelear
 
 744
-00:33:38,120 --> 00:33:38,840
+00:33:38,120 --> 00:33:39,456
 ¡Quién!
 
 745
-00:33:39,480 --> 00:33:40,367
+00:33:39,480 --> 00:33:40,433
 ¿Quién lo hizo?
 
 746
-00:33:40,457 --> 00:33:41,229
+00:33:40,457 --> 00:33:42,096
 ¿Quién lo hizo?
 
 747
-00:33:42,120 --> 00:33:43,000
+00:33:42,120 --> 00:33:43,856
 ¿Quién lo tiró?
 
 748
-00:33:43,880 --> 00:33:45,400
+00:33:43,880 --> 00:33:45,456
 ¿Que están haciendo, chicos?
 
 749
-00:33:45,480 --> 00:33:47,400
+00:33:45,480 --> 00:33:47,616
 ¿Quieres robar dinero o tirarte al mar y huir?
 
 750
-00:33:47,640 --> 00:33:48,680
+00:33:47,640 --> 00:33:48,736
 ¡Nos robaron los boletos del barco!
 
 751
-00:33:48,760 --> 00:33:50,120
+00:33:48,760 --> 00:33:50,736
 ¡Acabamos de llegar a cubierta!
 
 752
-00:33:50,760 --> 00:33:51,240
+00:33:50,760 --> 00:33:51,296
 ¡No golpees!
 
 753
-00:33:51,320 --> 00:33:51,800
+00:33:51,320 --> 00:33:52,416
 ¡Solo olvídalo!
 
 754
-00:33:52,440 --> 00:33:53,000
+00:33:52,440 --> 00:33:53,136
 ¡Déjalo ir!
 
 755
-00:33:53,160 --> 00:33:53,640
+00:33:53,160 --> 00:33:54,640
 ¡Solo olvídalo!
 
 756
-00:34:02,920 --> 00:34:03,865
+00:34:02,920 --> 00:34:04,865
 ¡Deja de pelear!
 
 757
-00:34:09,929 --> 00:34:10,571
+00:34:09,929 --> 00:34:11,571
 ¡Deja de pelear!
 
 758
-00:34:20,680 --> 00:34:23,000
+00:34:20,680 --> 00:34:23,056
 ¡Bien!
 
 759
-00:34:23,080 --> 00:34:23,960
+00:34:23,080 --> 00:34:24,336
 ¡Detén el alboroto!
 
 760
-00:34:24,360 --> 00:34:25,240
+00:34:24,360 --> 00:34:25,616
 Está prohibido hacer un alboroto aquí.
 
 761
-00:34:25,640 --> 00:34:26,520
+00:34:25,640 --> 00:34:27,056
 Estamos en el océano.
 
 762
-00:34:27,080 --> 00:34:28,440
+00:34:27,080 --> 00:34:28,656
 Este barco pertenece a Japón.
 
 763
-00:34:28,680 --> 00:34:34,120
+00:34:28,680 --> 00:34:34,736
 Las personas que no tienen boleto de barco deben comprar uno.
 
 764
-00:34:34,760 --> 00:34:36,680
+00:34:34,760 --> 00:34:37,456
 Entonces, todos no malinterpreten
 
 765
-00:34:37,480 --> 00:34:39,240
+00:34:37,480 --> 00:34:39,296
 Realizamos una investigación en secreto.
 
 766
-00:34:39,320 --> 00:34:43,800
+00:34:39,320 --> 00:34:44,256
 y descubrí que esos dos originalmente no tenían boletos de barco,
 
 767
-00:34:44,280 --> 00:34:44,920
+00:34:44,280 --> 00:34:45,136
 por lo tanto
 
 768
-00:34:45,160 --> 00:34:48,360
+00:34:45,160 --> 00:34:49,360
 estos dos deben comprar boletos de barco.
 
 769
-00:34:50,280 --> 00:34:51,320
+00:34:50,280 --> 00:34:51,616
 Deja que estos dos jóvenes se vayan.
 
 770
-00:34:51,640 --> 00:34:53,240
+00:34:51,640 --> 00:34:54,240
 Los billetes del barco, los pagaré yo.
 
 771
-00:34:54,520 --> 00:34:56,520
+00:34:54,520 --> 00:34:57,136
 Está bien, siempre y cuando se compren los boletos, está bien.
 
 772
-00:34:57,160 --> 00:34:58,600
+00:34:57,160 --> 00:34:58,736
 ¡No está bien! Ustedes...
 
 773
-00:34:58,760 --> 00:35:00,200
+00:34:58,760 --> 00:35:00,416
 Tienes que disculparte con estos dos jóvenes chinos.
 
 774
-00:35:00,440 --> 00:35:01,240
+00:35:00,440 --> 00:35:01,296
 Este es nuestro transatlántico japonés,
 
 775
-00:35:01,320 --> 00:35:02,520
+00:35:01,320 --> 00:35:02,976
 estamos haciendo negocios oficiales.
 
 776
-00:35:03,000 --> 00:35:04,840
+00:35:03,000 --> 00:35:05,296
 No hay razón para disculparse, será mejor que no vayan demasiado lejos.
 
 777
-00:35:05,320 --> 00:35:06,680
+00:35:05,320 --> 00:35:07,376
 ¿Golpear a la gente es cumplir asuntos oficiales?
 
 778
-00:35:07,400 --> 00:35:09,080
+00:35:07,400 --> 00:35:09,376
 ¿Es humillar a una mujer que lleva a cabo un negocio oficial?
 
 779
-00:35:09,400 --> 00:35:11,000
+00:35:09,400 --> 00:35:11,376
 ¿Quitarse la ropa de una niña es cumplir con un asunto oficial?
 
 780
-00:35:11,400 --> 00:35:12,120
+00:35:11,400 --> 00:35:12,416
 Les digo chicos...
 
 781
-00:35:12,440 --> 00:35:14,280
+00:35:12,440 --> 00:35:14,416
 ustedes los japoneses están abusando de su poder,
 
 782
-00:35:14,440 --> 00:35:15,800
+00:35:14,440 --> 00:35:16,016
 insultándonos desenfrenadamente a los chinos.
 
 783
-00:35:16,040 --> 00:35:17,320
+00:35:16,040 --> 00:35:17,696
 ¡Esto es un insulto a nuestra China!
 
 784
-00:35:17,720 --> 00:35:18,840
+00:35:17,720 --> 00:35:18,976
 ¡Esto es aguas internacionales!
 
 785
-00:35:19,000 --> 00:35:19,560
+00:35:19,000 --> 00:35:19,616
 Esto es
 
 786
-00:35:19,640 --> 00:35:21,720
+00:35:19,640 --> 00:35:21,936
 un gran asunto que es suficiente para causar un incidente internacional.
 
 787
-00:35:21,960 --> 00:35:22,600
+00:35:21,960 --> 00:35:22,736
 ¿Te detendrás?
 
 788
-00:35:22,760 --> 00:35:24,280
+00:35:22,760 --> 00:35:25,280
 jugando antes de que este asunto se salga de control?
 
 789
-00:35:25,800 --> 00:35:26,529
+00:35:25,800 --> 00:35:26,847
 ¡Pedir disculpas!
 
 790
-00:35:26,871 --> 00:35:27,372
+00:35:26,871 --> 00:35:27,456
 ¡Pedir disculpas!
 
 791
-00:35:27,480 --> 00:35:29,000
+00:35:27,480 --> 00:35:29,936
 ¡Pedir disculpas! ¡Pedir disculpas!
 
 792
-00:35:29,960 --> 00:35:30,628
+00:35:29,960 --> 00:35:31,090
 ¡Pedir disculpas!
 
 793
-00:35:31,114 --> 00:35:31,829
+00:35:31,114 --> 00:35:32,416
 ¡Pedir disculpas!
 
 794
-00:35:32,440 --> 00:35:35,275
+00:35:32,440 --> 00:35:35,696
 ¡Pedir disculpas! ¡Pedir disculpas!
 
 795
-00:35:35,720 --> 00:35:39,640
+00:35:35,720 --> 00:35:39,676
 ¡Pedir disculpas! ¡Pedir disculpas! ¡Pedir disculpas! Chicos malos, discúlpense!
 
 796
-00:35:39,700 --> 00:35:40,937
+00:35:39,700 --> 00:35:41,136
 ¡Pedir disculpas! ¡Pedir disculpas!
 
 797
-00:35:41,160 --> 00:35:41,640
+00:35:41,160 --> 00:35:42,016
 ¡Pedir disculpas! ¡Pedir disculpas!
 
 798
-00:35:42,040 --> 00:35:43,320
+00:35:42,040 --> 00:35:44,320
 ¡Pedir disculpas! ¡Pedir disculpas!
 
 799
-00:35:45,400 --> 00:35:47,880
+00:35:45,400 --> 00:35:48,256
 ¡Okey! ¡Lo tengo!
 
 800
-00:35:48,280 --> 00:35:50,600
+00:35:48,280 --> 00:35:51,600
 Ustedes dos se disculpan rápidamente.
 
 801
-00:35:52,680 --> 00:35:54,520
+00:35:52,680 --> 00:35:55,520
 Lo siento. Lo siento.
 
 802
-00:35:56,760 --> 00:35:57,800
+00:35:56,760 --> 00:35:58,800
 ¡Oye, vamos!
 
 803
-00:35:59,560 --> 00:36:00,625
+00:35:59,560 --> 00:36:00,690
 ¡Ganamos!
 
 804
-00:36:00,714 --> 00:36:01,840
+00:36:00,714 --> 00:36:02,840
 ¡Ganamos!
 
 805
-00:36:03,000 --> 00:36:04,880
+00:36:03,000 --> 00:36:05,296
 ¡Ganamos!
 
 806
-00:36:05,320 --> 00:36:07,480
+00:36:05,320 --> 00:36:07,616
 Esta es la victoria? ¿Cuál fue la victoria?
 
 807
-00:36:07,640 --> 00:36:09,160
+00:36:07,640 --> 00:36:09,376
 Las tres palabras "lo siento", ¿y se acabó?
 
 808
-00:36:09,400 --> 00:36:10,200
+00:36:09,400 --> 00:36:10,256
 ¡Así es!
 
 809
-00:36:10,280 --> 00:36:11,400
+00:36:10,280 --> 00:36:11,936
 ¿Cuenta esto como victoria?
 
 810
-00:36:11,960 --> 00:36:12,920
+00:36:11,960 --> 00:36:13,296
 ¡Seguir luchando!
 
 811
-00:36:13,320 --> 00:36:14,280
+00:36:13,320 --> 00:36:15,056
 ¡Vuelve y sigue luchando!
 
 812
-00:36:15,080 --> 00:36:15,640
+00:36:15,080 --> 00:36:15,696
 ¡Qué estás diciendo!
 
 813
-00:36:15,720 --> 00:36:16,760
+00:36:15,720 --> 00:36:16,896
 ¿Sigues siendo humano?
 
 814
-00:36:16,920 --> 00:36:18,360
+00:36:16,920 --> 00:36:18,496
 Ver a tu conciudadano siendo intimidado...
 
 815
-00:36:18,520 --> 00:36:19,240
+00:36:18,520 --> 00:36:19,376
 no sale a dar una mano...
 
 816
-00:36:19,400 --> 00:36:20,520
+00:36:19,400 --> 00:36:20,656
 en cambio, estás de lado haciendo comentarios sarcásticos.
 
 817
-00:36:20,680 --> 00:36:21,640
+00:36:20,680 --> 00:36:22,016
 ¿Sigues siendo chino?
 
 818
-00:36:22,040 --> 00:36:23,400
+00:36:22,040 --> 00:36:24,400
 ¿Todavía sabes lo que es la vergüenza?
 
 819
-00:36:27,000 --> 00:36:27,880
+00:36:27,000 --> 00:36:28,336
 Sabes lo que es la vergüenza,
 
 820
-00:36:28,360 --> 00:36:29,960
+00:36:28,360 --> 00:36:30,176
 ¿Cuál es el punto de presumir aquí?
 
 821
-00:36:30,200 --> 00:36:32,040
+00:36:30,200 --> 00:36:32,336
 Si tienes la habilidad de pelear una batalla en Europa,
 
 822
-00:36:32,360 --> 00:36:33,800
+00:36:32,360 --> 00:36:34,096
 exterminarías a la Alianza de las Ocho Naciones.
 
 823
-00:36:34,120 --> 00:36:34,440
+00:36:34,120 --> 00:36:34,496
 ¡Así es!
 
 824
-00:36:34,520 --> 00:36:35,240
+00:36:34,520 --> 00:36:35,456
 Eso es lo que se llama habilidad.
 
 825
-00:36:35,480 --> 00:36:35,800
+00:36:35,480 --> 00:36:36,256
 ¡Ustedes!
 
 826
-00:36:36,280 --> 00:36:37,080
+00:36:36,280 --> 00:36:37,376
 ¿Qué es lo que quieres hacer?
 
 827
-00:36:37,400 --> 00:36:38,520
+00:36:37,400 --> 00:36:39,216
 Un pueblo chino luchando entre sí
 
 828
-00:36:39,240 --> 00:36:39,720
+00:36:39,240 --> 00:36:40,016
 Venir
 
 829
-00:36:40,040 --> 00:36:41,720
+00:36:40,040 --> 00:36:42,016
 Que los extranjeros vean bien...
 
 830
-00:36:42,040 --> 00:36:43,960
+00:36:42,040 --> 00:36:44,096
 cómo los chinos se intimidan unos a otros
 
 831
-00:36:44,120 --> 00:36:44,840
+00:36:44,120 --> 00:36:45,840
 Venir
 
 832
-00:36:47,000 --> 00:36:47,640
+00:36:47,000 --> 00:36:48,016
 ¿Lo ves?
 
 833
-00:36:48,040 --> 00:36:49,480
+00:36:48,040 --> 00:36:49,616
 ¡Los chinos se están intimidando unos a otros!
 
 834
-00:36:49,640 --> 00:36:50,760
+00:36:49,640 --> 00:36:50,816
 Vengan todos vengan a ver
 
 835
-00:36:50,840 --> 00:36:51,800
+00:36:50,840 --> 00:36:52,800
 Dejen de pelear, todos ustedes regresen por mi
 
 836
-00:36:52,840 --> 00:36:53,400
+00:36:52,840 --> 00:36:54,016
 Vamos
 
 837
-00:36:54,040 --> 00:36:54,425
+00:36:54,040 --> 00:36:54,790
 Todos ustedes regresen
 
 838
-00:36:54,814 --> 00:36:55,177
+00:36:54,814 --> 00:36:56,177
 Todos ustedes regresen
 
 839
-00:36:56,440 --> 00:36:58,200
+00:36:56,440 --> 00:36:59,200
 No te enojes, no te rebajes a su nivel
 
 840
-00:37:02,760 --> 00:37:03,560
+00:37:02,760 --> 00:37:04,560
 Ceder el paso
 
 841
-00:37:04,920 --> 00:37:06,520
+00:37:04,920 --> 00:37:06,896
 Levanta un poco los pies
 
 842
-00:37:06,920 --> 00:37:07,720
+00:37:06,920 --> 00:37:08,720
 pisaste mi azulejo
 
 843
-00:37:12,120 --> 00:37:13,000
+00:37:12,120 --> 00:37:14,000
 ¿Qué azulejo?
 
 844
-00:37:14,360 --> 00:37:16,840
+00:37:14,360 --> 00:37:17,840
 Pequeña... pequeña pollita parece
 
 845
-00:37:23,880 --> 00:37:25,400
+00:37:23,880 --> 00:37:26,400
 Esta vista tuya no es buena
 
 846
-00:37:27,480 --> 00:37:28,520
+00:37:27,480 --> 00:37:29,520
 es un pastel
 
 847
-00:37:29,720 --> 00:37:30,360
+00:37:29,720 --> 00:37:31,360
 ¿Jugar a menudo?
 
 848
-00:37:32,520 --> 00:37:33,480
+00:37:32,520 --> 00:37:34,480
 ¿Por qué tiraste el azulejo?
 
 849
-00:37:34,600 --> 00:37:35,560
+00:37:34,600 --> 00:37:36,560
 Conciudadanos siendo insultados
 
 850
-00:37:36,600 --> 00:37:37,640
+00:37:36,600 --> 00:37:38,256
 es mucho menos importante
 
 851
-00:37:38,280 --> 00:37:40,520
+00:37:38,280 --> 00:37:40,736
 que tu juego de mahjong, ¿verdad?
 
 852
-00:37:40,760 --> 00:37:42,360
+00:37:40,760 --> 00:37:42,416
 ¡Qué tiene que ver este infierno con jugar Mahjong!
 
 853
-00:37:42,440 --> 00:37:43,240
+00:37:42,440 --> 00:37:43,376
 ¿Por qué tiraste mi teja?
 
 854
-00:37:43,400 --> 00:37:44,920
+00:37:43,400 --> 00:37:45,776
 ¿Cómo se les puede justificar que tomen boletos?
 
 855
-00:37:45,800 --> 00:37:47,240
+00:37:45,800 --> 00:37:47,936
 La razón por la que el país no está prosperando...
 
 856
-00:37:47,960 --> 00:37:49,800
+00:37:47,960 --> 00:37:50,800
 es que la sabiduría del pueblo aún no está abierta.
 
 857
-00:37:51,000 --> 00:37:52,200
+00:37:51,000 --> 00:37:52,256
 ¡¿Significado?!
 
 858
-00:37:52,280 --> 00:37:53,880
+00:37:52,280 --> 00:37:53,936
 jugando al majong...
 
 859
-00:37:53,960 --> 00:37:55,560
+00:37:53,960 --> 00:37:55,776
 ¿Qué importa si la gente está abierta o no?
 
 860
-00:37:55,800 --> 00:37:56,760
+00:37:55,800 --> 00:37:56,816
 ¿Para qué tiraste mis fichas?
 
 861
-00:37:56,840 --> 00:37:57,960
+00:37:56,840 --> 00:37:58,256
 ¿Aún quieren perder la cara?
 
 862
-00:37:58,280 --> 00:37:59,880
+00:37:58,280 --> 00:38:00,016
 Nosotros los chinos discutiendo entre nosotros aquí...
 
 863
-00:38:00,040 --> 00:38:01,160
+00:38:00,040 --> 00:38:01,456
 Dejamos que los extranjeros vean una broma
 
 864
-00:38:01,480 --> 00:38:03,800
+00:38:01,480 --> 00:38:04,256
 Todos los demás, regresen a su cabaña. Ahora
 
 865
-00:38:04,280 --> 00:38:04,760
+00:38:04,280 --> 00:38:05,760
 Vamos
 
 866
-00:38:07,000 --> 00:38:08,200
+00:38:07,000 --> 00:38:08,656
 Sr. Zhongfu, ¿está bien?
 
 867
-00:38:08,680 --> 00:38:09,400
+00:38:08,680 --> 00:38:09,696
 Estoy bien
 
 868
-00:38:09,720 --> 00:38:10,440
+00:38:09,720 --> 00:38:10,736
 General Yongcheng
 
 869
-00:38:10,760 --> 00:38:12,440
+00:38:10,760 --> 00:38:12,896
 Mi descortesía de antes
 
 870
-00:38:12,920 --> 00:38:14,120
+00:38:12,920 --> 00:38:15,120
 te pido disculpas formalmente
 
 871
-00:38:15,720 --> 00:38:16,680
+00:38:15,720 --> 00:38:16,933
 eres un compañero
 
 872
-00:38:16,957 --> 00:38:17,646
+00:38:16,957 --> 00:38:18,646
 estoy avergonzado
 
 873
-00:38:18,760 --> 00:38:19,800
+00:38:18,760 --> 00:38:20,800
 gracias señores
 
 874
-00:38:21,640 --> 00:38:22,280
+00:38:21,640 --> 00:38:22,656
 Señor,
 
 875
-00:38:22,680 --> 00:38:23,400
+00:38:22,680 --> 00:38:23,456
 El dinero del billete del barco...
 
 876
-00:38:23,480 --> 00:38:24,920
+00:38:23,480 --> 00:38:25,136
 Seguro que te lo devolvemos lo antes posible.
 
 877
-00:38:25,160 --> 00:38:25,880
+00:38:25,160 --> 00:38:26,416
 no hay necesidad no hay necesidad
 
 878
-00:38:26,440 --> 00:38:27,320
+00:38:26,440 --> 00:38:27,616
 todos somos chinos
 
 879
-00:38:27,640 --> 00:38:28,680
+00:38:27,640 --> 00:38:29,216
 Ayudarnos unos a otros es lo que debemos hacer.
 
 880
-00:38:29,240 --> 00:38:29,640
+00:38:29,240 --> 00:38:30,640
 Gracias
 
 881
-00:38:30,760 --> 00:38:31,320
+00:38:30,760 --> 00:38:31,696
 Sr. Zhongfu.
 
 882
-00:38:31,720 --> 00:38:33,480
+00:38:31,720 --> 00:38:34,256
 Tu ayuda, a pesar de lo que pasó ayer,
 
 883
-00:38:34,280 --> 00:38:35,160
+00:38:34,280 --> 00:38:35,456
 te lo agradezco de todo corazon
 
 884
-00:38:35,480 --> 00:38:36,760
+00:38:35,480 --> 00:38:37,760
 ¿Qué pasa con los eventos de ayer?
 
 885
-00:38:38,840 --> 00:38:39,400
+00:38:38,840 --> 00:38:39,776
 Te olvidaste
 
 886
-00:38:39,800 --> 00:38:41,000
+00:38:39,800 --> 00:38:41,376
 En Waseda,
 
 887
-00:38:41,400 --> 00:38:42,760
+00:38:41,400 --> 00:38:43,760
 Te escupo un bocado
 
 888
-00:38:44,440 --> 00:38:45,720
+00:38:44,440 --> 00:38:46,176
 ¿Qué tal si no me olvido?
 
 889
-00:38:46,200 --> 00:38:46,840
+00:38:46,200 --> 00:38:47,536
 escupiéndote
 
 890
-00:38:47,560 --> 00:38:48,600
+00:38:47,560 --> 00:38:48,976
 Me escupes un bocado de flema
 
 891
-00:38:49,000 --> 00:38:50,120
+00:38:49,000 --> 00:38:50,416
 es tu valentía
 
 892
-00:38:50,440 --> 00:38:51,320
+00:38:50,440 --> 00:38:51,376
 La pelea de hoy...
 
 893
-00:38:51,400 --> 00:38:52,360
+00:38:51,400 --> 00:38:52,736
 es nuestra valentía
 
 894
-00:38:52,760 --> 00:38:53,960
+00:38:52,760 --> 00:38:54,416
 Pero es solo por valentía
 
 895
-00:38:54,440 --> 00:38:55,800
+00:38:54,440 --> 00:38:56,336
 Esta lucha va a durar hasta cuando?
 
 896
-00:38:56,360 --> 00:38:59,240
+00:38:56,360 --> 00:38:59,856
 Los principios en esto, ¿entiendes?
 
 897
-00:38:59,880 --> 00:39:01,160
+00:38:59,880 --> 00:39:01,536
 Escucharé de todo corazón tus instrucciones.
 
 898
-00:39:01,560 --> 00:39:02,200
+00:39:01,560 --> 00:39:02,816
 Bien
 
 899
-00:39:02,840 --> 00:39:05,400
+00:39:02,840 --> 00:39:06,096
 Entonces entremos a las cabañas a charlar.
 
 900
-00:39:06,120 --> 00:39:07,320
+00:39:06,120 --> 00:39:07,456
 General Yongcheng, por favor
 
 901
-00:39:07,480 --> 00:39:08,520
+00:39:07,480 --> 00:39:09,520
 Vamos. Venir.
 
 902
-00:39:18,680 --> 00:39:19,240
+00:39:18,680 --> 00:39:20,240
 Qiaonian
 
 903
-00:39:30,040 --> 00:39:31,640
+00:39:30,040 --> 00:39:32,640
 Bien, ahora no tendré miedo de que se caiga.
 
 904
-00:39:52,440 --> 00:39:52,840
+00:39:52,440 --> 00:39:53,840
 Aquí
 
 905
-00:40:51,720 --> 00:40:53,320
+00:40:51,720 --> 00:40:54,320
 ¡Hermano Yannian, hermano Qiaonian!
 
 906
-00:40:56,280 --> 00:40:57,320
+00:40:56,280 --> 00:40:57,456
 ¿Qué estás haciendo aquí?
 
 907
-00:40:57,480 --> 00:40:58,280
+00:40:57,480 --> 00:40:58,336
 ¿Qué buena comida estás comiendo?
 
 908
@@ -3635,209 +3635,210 @@ Aquí
 ¡Yo también quiero comer!
 
 909
-00:40:59,055 --> 00:41:00,810
-[Chen Zimei, hija de Chen Duxiu]
+00:40:59,055 --> 00:41:01,810
+{\an8}[Chen Zimei, hija de Chen Duxiu]
 
 910
-00:41:06,200 --> 00:41:07,160
+00:41:06,200 --> 00:41:07,296
 ¡Tía!
 
 911
-00:41:07,320 --> 00:41:08,040
+00:41:07,320 --> 00:41:08,568
 Yannian, Qiaonian.
 
 912
-00:41:08,592 --> 00:41:10,345
-[Gao Junman, esposa de Chen Duxiu]
+00:41:08,592 --> 00:41:10,416
+{\an8}[Gao Junman, esposa de Chen Duxiu]
 
 913
-00:41:10,440 --> 00:41:11,240
+00:41:10,440 --> 00:41:11,856
 ¡Tan difícil de comer!
 
 914
-00:41:11,880 --> 00:41:12,680
+00:41:11,880 --> 00:41:13,680
 ¿Qué pasa Zimei?
 
 915
-00:41:15,720 --> 00:41:16,360
+00:41:15,720 --> 00:41:16,816
 No comas más esto.
 
 916
-00:41:16,840 --> 00:41:18,120
+00:41:16,840 --> 00:41:19,120
 La tía trajo algunos bollos para ustedes.
 
 917
-00:41:21,000 --> 00:41:21,880
+00:41:21,000 --> 00:41:22,736
 Acaba de salir de la caldera.
 
 918
-00:41:22,760 --> 00:41:23,560
+00:41:22,760 --> 00:41:24,560
 Come los bollos.
 
 919
-00:41:26,120 --> 00:41:27,080
+00:41:26,120 --> 00:41:28,080
 Tía, no lo comeremos.
 
 920
-00:41:28,840 --> 00:41:29,720
+00:41:28,840 --> 00:41:30,016
 La tía no es extranjera.
 
 921
-00:41:30,040 --> 00:41:31,160
+00:41:30,040 --> 00:41:32,160
 ¿Qué es lo que no puedes comer?
 
 922
-00:41:36,360 --> 00:41:37,000
+00:41:36,360 --> 00:41:37,856
 Te lo comiste
 
 923
-00:41:37,880 --> 00:41:38,760
+00:41:37,880 --> 00:41:39,760
 Gracias tía
 
 924
-00:41:42,760 --> 00:41:43,960
+00:41:42,760 --> 00:41:44,960
 Les traje sopa de huevo
 
 925
-00:41:55,160 --> 00:41:55,640
+00:41:55,160 --> 00:41:55,856
 Aquí
 
 926
-00:41:55,880 --> 00:41:56,760
+00:41:55,880 --> 00:41:57,136
 Recién salido de la olla
 
 927
-00:41:57,160 --> 00:41:57,800
+00:41:57,160 --> 00:41:58,800
 Gracias tía
 
 928
-00:42:03,000 --> 00:42:04,520
+00:42:03,000 --> 00:42:05,056
 Yannian. Ven, come unos bollos
 
 929
-00:42:05,080 --> 00:42:07,240
+00:42:05,080 --> 00:42:07,776
 Tía, el dinero se usa para comprar esto.
 
 930
-00:42:07,800 --> 00:42:09,800
+00:42:07,800 --> 00:42:10,800
 Cuando lo miras, no se ve bien. Una vez que lo comes, es bastante sabroso.
 
 931
-00:42:12,040 --> 00:42:12,680
+00:42:12,040 --> 00:42:13,680
 donde esta henian
 
 932
-00:42:13,880 --> 00:42:14,680
+00:42:13,880 --> 00:42:14,896
 no se siente muy bien
 
 933
-00:42:14,920 --> 00:42:16,200
+00:42:14,920 --> 00:42:17,200
 Un vecino me ayudó a cuidarlo.
 
 934
-00:42:18,760 --> 00:42:19,560
+00:42:18,760 --> 00:42:20,096
 Yannian, Qiaonian
 
 935
-00:42:20,120 --> 00:42:22,120
+00:42:20,120 --> 00:42:22,736
 La tía ha venido aquí muchas veces para instarles...
 
 936
-00:42:22,760 --> 00:42:24,600
+00:42:22,760 --> 00:42:24,736
 Ustedes siempre obstinadamente no están dispuestos a venir a casa conmigo.
 
 937
-00:42:24,760 --> 00:42:25,960
+00:42:24,760 --> 00:42:26,496
 Tu padre está a punto de volver.
 
 938
-00:42:26,520 --> 00:42:27,560
+00:42:26,520 --> 00:42:28,560
 Ven a casa con la tía
 
 939
-00:42:29,000 --> 00:42:30,040
+00:42:29,000 --> 00:42:30,496
 no volveremos
 
 940
-00:42:30,520 --> 00:42:31,800
+00:42:30,520 --> 00:42:32,800
 No tenemos nada que ver con esta persona.
 
 941
-00:42:34,200 --> 00:42:35,560
+00:42:34,200 --> 00:42:36,560
 Pero ustedes trabajando afuera así...
 
 942
-00:42:36,680 --> 00:42:37,800
+00:42:36,680 --> 00:42:38,176
 es realmente mucha dificultad
 
 943
-00:42:38,200 --> 00:42:39,560
+00:42:38,200 --> 00:42:39,936
 Ni siquiera puedo conseguir comida caliente para comer
 
 944
-00:42:39,960 --> 00:42:40,600
+00:42:39,960 --> 00:42:40,736
 Ven a casa conmigo
 
 945
-00:42:40,760 --> 00:42:42,120
+00:42:40,760 --> 00:42:42,496
 Bueno o malo, puedes comer algo caliente.
 
 946
-00:42:42,520 --> 00:42:43,320
+00:42:42,520 --> 00:42:44,256
 ¿Okey?
 
 947
-00:42:44,280 --> 00:42:46,200
+00:42:44,280 --> 00:42:46,656
 Tía, no intentes persuadirnos más.
 
 948
-00:42:46,680 --> 00:42:47,800
+00:42:46,680 --> 00:42:48,176
 confiaremos en nosotros mismos
 
 949
-00:42:48,200 --> 00:42:49,320
+00:42:48,200 --> 00:42:50,320
 Este es nuestro principio
 
 950
-00:42:50,600 --> 00:42:51,400
+00:42:50,600 --> 00:42:52,256
 zimei
 
 951
-00:42:52,280 --> 00:42:53,480
+00:42:52,280 --> 00:42:53,696
 tus hermanos se van a ir a trabajar
 
 952
-00:42:53,720 --> 00:42:54,680
+00:42:53,720 --> 00:42:54,976
 Esta vez no podemos acompañarte a jugar.
 
 953
-00:42:55,000 --> 00:42:55,720
+00:42:55,000 --> 00:42:56,720
 La próxima vez, está bien
 
 954
-00:42:58,760 --> 00:42:59,160
+00:42:58,760 --> 00:43:00,016
 Vamos
 
 955
-00:43:00,040 --> 00:43:01,000
+00:43:00,040 --> 00:43:02,000
 Adiós tía
 
 956
-00:43:04,520 --> 00:43:05,240
+00:43:04,520 --> 00:43:05,376
 Espera un minuto
 
 957
-00:43:05,400 --> 00:43:05,720
+00:43:05,400 --> 00:43:06,720
 Aquí
 
 958
-00:43:06,920 --> 00:43:07,560
+00:43:06,920 --> 00:43:07,616
 Toma todos estos bollos
 
 959
-00:43:07,640 --> 00:43:09,160
+00:43:07,640 --> 00:43:09,536
 Hermano mayor, aceptaste que te enviaría mi saltamontes.
 
 960
-00:43:09,560 --> 00:43:10,760
+00:43:09,560 --> 00:43:11,760
 Hermano te lo prometí, lo haré seguro.
+
